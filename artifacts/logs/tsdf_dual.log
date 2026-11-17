@@ -1,0 +1,37 @@
+camera1 view 000: depth 26519 -> 26506, range 0.5622-0.7264 m
+camera1 view 030: depth 24610 -> 24806, range 0.5587-0.7467 m
+camera1 view 060: depth 28929 -> 29027, range 0.5612-0.7536 m
+camera1 view 090: depth 22272 -> 22558, range 0.5569-0.7400 m
+camera1 view 120: depth 19584 -> 19759, range 0.5653-0.7533 m
+camera1 view 150: depth 29678 -> 30061, range 0.5612-0.7467 m
+camera1 view 180: depth 26519 -> 26506, range 0.5622-0.7264 m
+camera1 view 210: depth 24610 -> 24806, range 0.5587-0.7467 m
+camera1 view 240: depth 28929 -> 29027, range 0.5612-0.7536 m
+camera1 view 270: depth 22272 -> 22558, range 0.5569-0.7400 m
+camera1 view 300: depth 19584 -> 19759, range 0.5653-0.7533 m
+camera1 view 330: depth 29678 -> 30061, range 0.5612-0.7467 m
+camera2 view 000: depth 53354 -> 53388, range 0.4438-0.6169 m
+camera2 view 030: depth 47953 -> 47965, range 0.4366-0.5629 m
+camera2 view 060: depth 51917 -> 52000, range 0.4481-0.6172 m
+camera2 view 090: depth 51115 -> 51431, range 0.4420-0.6324 m
+camera2 view 120: depth 42060 -> 42695, range 0.4444-0.5708 m
+camera2 view 150: depth 48774 -> 49558, range 0.4449-0.6393 m
+camera2 view 180: depth 53354 -> 53388, range 0.4438-0.6169 m
+camera2 view 210: depth 47953 -> 47965, range 0.4366-0.5629 m
+camera2 view 240: depth 51917 -> 52000, range 0.4481-0.6172 m
+camera2 view 270: depth 51115 -> 51431, range 0.4420-0.6324 m
+camera2 view 300: depth 42060 -> 42695, range 0.4444-0.5708 m
+camera2 view 330: depth 48774 -> 49558, range 0.4449-0.6393 m
+[1;33m[Open3D WARNING] Write Ply clamped color value to valid range[0;m
+camera1_frames: 12
+camera2_frames: 12
+total_frames: 24
+vertex_count: 73538
+face_count: 143616
+body_count: 233
+watertight: False
+extent_m: [0.19396437606312972, 0.1559643760631297, 0.10055399563774683]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/tsdf_horizontal_hole_dual_12views

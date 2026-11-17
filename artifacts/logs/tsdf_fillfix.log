@@ -1,0 +1,66 @@
+view 000: depth pixels 26519 -> 26506
+view 000: integrated 26519 depth pixels, range 0.5622-0.7264 m
+view 030: depth pixels 24610 -> 24806
+view 030: integrated 24610 depth pixels, range 0.5587-0.7467 m
+view 060: depth pixels 28929 -> 29027
+view 060: integrated 28929 depth pixels, range 0.5612-0.7536 m
+view 090: depth pixels 22272 -> 22558
+view 090: integrated 22272 depth pixels, range 0.5569-0.7400 m
+view 120: depth pixels 19584 -> 19759
+view 120: integrated 19584 depth pixels, range 0.5653-0.7533 m
+view 150: depth pixels 29678 -> 30061
+view 150: integrated 29678 depth pixels, range 0.5612-0.7467 m
+view 180: depth pixels 26519 -> 26506
+view 180: integrated 26519 depth pixels, range 0.5622-0.7264 m
+view 210: depth pixels 24610 -> 24806
+view 210: integrated 24610 depth pixels, range 0.5587-0.7467 m
+view 240: depth pixels 28929 -> 29027
+view 240: integrated 28929 depth pixels, range 0.5612-0.7536 m
+view 270: depth pixels 22272 -> 22558
+view 270: integrated 22272 depth pixels, range 0.5569-0.7400 m
+view 300: depth pixels 19584 -> 19759
+view 300: integrated 19584 depth pixels, range 0.5653-0.7533 m
+view 330: depth pixels 29678 -> 30061
+view 330: integrated 29678 depth pixels, range 0.5612-0.7467 m
+vertex_count: 70318
+face_count: 137966
+body_count: 155
+watertight: False
+extent_m: [0.19396437606312972, 0.1559643760631297, 0.10026263235774628]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/tsdf_horizontal_hole_12views_fillfixed
+view 000: depth pixels 53354 -> 53388
+view 000: integrated 53354 depth pixels, range 0.4438-0.6169 m
+view 030: depth pixels 47953 -> 47965
+view 030: integrated 47953 depth pixels, range 0.4366-0.5629 m
+view 060: depth pixels 51917 -> 52000
+view 060: integrated 51917 depth pixels, range 0.4481-0.6172 m
+view 090: depth pixels 51115 -> 51431
+view 090: integrated 51115 depth pixels, range 0.4420-0.6324 m
+view 120: depth pixels 42060 -> 42695
+view 120: integrated 42060 depth pixels, range 0.4444-0.5708 m
+view 150: depth pixels 48774 -> 49558
+view 150: integrated 48774 depth pixels, range 0.4449-0.6393 m
+view 180: depth pixels 53354 -> 53388
+view 180: integrated 53354 depth pixels, range 0.4438-0.6169 m
+view 210: depth pixels 47953 -> 47965
+view 210: integrated 47953 depth pixels, range 0.4366-0.5629 m
+view 240: depth pixels 51917 -> 52000
+view 240: integrated 51917 depth pixels, range 0.4481-0.6172 m
+view 270: depth pixels 51115 -> 51431
+view 270: integrated 51115 depth pixels, range 0.4420-0.6324 m
+view 300: depth pixels 42060 -> 42695
+view 300: integrated 42060 depth pixels, range 0.4444-0.5708 m
+view 330: depth pixels 48774 -> 49558
+view 330: integrated 48774 depth pixels, range 0.4449-0.6393 m
+vertex_count: 71460
+face_count: 138748
+body_count: 201
+watertight: False
+extent_m: [0.133, 0.111, 0.09708037194628115]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/tsdf_horizontal_hole_camera2_12views_fillfixed

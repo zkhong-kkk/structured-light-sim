@@ -1,0 +1,2872 @@
+============================================================
+Stage 1: camera2 smoke render
+============================================================
+Smoke HDF5 already exists, skipping render.
+smoke preview saved
+============================================================
+Stage 2: render 12 views, expected 144 HDF5 files
+============================================================
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.279 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_b15a261e1549479fafce3d9aa7314ecf
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.804 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_2e9db61813de40d3a3a619e167d440be
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.609 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_2cd1c0b78d80476cb9f413b7975389a4
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.393 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_185fbfaaa3bf4f1da9b20ce1686a6263
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 11.978 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_d783e42c2e904216ba68b2de4afabf77
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.395 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_e5331651527e482f899a36bc1d923be4
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.038 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_29902887139e4b2e91661c03215686c4
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.084 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_e321f39e69154d808cca82367d64e6ca
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 11.062 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_db7b4be42b9247e783ef68c9b462013f
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.189 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_1c6b5e24883d4070ab9fea3ffa3caf95
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.341 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_db8770407a8f4154a52ef59284b1f680
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.336 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_000/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_54ee1a91e6234de4a70d2b6663dc7004
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.780 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_77d61e3eb60f4f39abcc9c365a9f696a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.620 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_0da0374239f640f5b5975969396c3751
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.613 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_0061437014f44ff4bc5f831884af0a45
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.270 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_1143edcb741447f7b3309922d315790f
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.156 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_a90451eb73654baa9971b50f09969610
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.206 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_d7059268165a40ca810bbfe001db3a82
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.817 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_b0f5a3d1bf214e0c9119493a94181a8a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.951 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_4a4f134a21384c879ebf365cf32efa05
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.504 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_e695ac86ec154c8d891c24b3daa6ff8e
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.699 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_fb188e7377244954903d4238a3141d3a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.762 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_46d51faf99934e8bae7989142a6cd6a6
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.966 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_030/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_fd8f6284a63340c59cfe7451b0c099d3
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.498 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_9b44038e64934c11ba2117e1676f3a4a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.921 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_24cefcbafff0438aa15afaa283832a8f
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.091 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_38d76d3b1e8940869a120326a0d0c453
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.112 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_a01022b2f6fb4c618f38db928631328f
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.587 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_24924dfdd8624f33b96cad441a3de371
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.781 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_0d612191cd2243c9a86bbf6774ed0490
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.386 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_30d9f1f04cf049c7b1641529b6f6ab78
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.960 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_de9aebc6207c441bacd841f4cea3e707
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.433 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_6a8f61ff07774de4acb7a0d24a65b08d
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.327 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_26730f578acd40b78c5d975af2bf34be
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.078 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_ef2b4a013a5342a686ec655fcebb4835
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.234 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_060/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_1308a592aa444a449b68d83089151f60
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.281 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_effce0e698d245fdaa1719262b846f19
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.249 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_eeb0ff13bfcf4a1b9d4dbb8897131800
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 11.348 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_e24062169e9e476cab71b1134fc34cf9
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.615 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_8e1850c3f1154ffd8f115691229c76db
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.529 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_ec28632bfd5f4a4aaad9dfcaa998411e
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.211 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_302b0042dca54f68be37c50e53415326
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.991 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_0e297fa1984d480b83aa5b3b83d693fe
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.161 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_20d2fc5fedcb4267ba40155b3ad10b52
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.056 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_578be8e519dc43fa9aceb3be49645736
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.708 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_98f02dbe5ff14663aa22dffcb64a192e
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.785 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_1bc3171ba52e460a819f2b98ffeafc47
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.561 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_090/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_4b77c86e2bc6482da9d92ca8f9496b1a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.105 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_f630b9437331467aba2cc1f8ae1f024d
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.300 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_38463af30f034df183234a42941c9810
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.971 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_5488662aa8c54bf28e87768c887ca084
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.338 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_f85ce20b030c45f4b921a3a127bfa1c3
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.570 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_9d89532aaf454dc2af24c139e1e5a19e
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.297 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_8da5198438174b8aa20772a974eb25a7
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.739 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_53bb64a388344b2c93df5b8c0fccc0eb
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.863 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_2af4c38296354fd79b2ae845378497ce
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.565 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_ca4ffe23efd64436bc103fca3436e639
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.823 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_aa87497c803d49218a511a54b67a8149
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.298 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_65d1d0b134244ababa9efa0c446ba482
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.178 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_120/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_3c4cd896c0754dc682d7440a7166fef3
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.056 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_1cb8b73a14a84eacbd53ee86ec1db559
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.697 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_0113259e576747c4b12830a950b82af5
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 12.977 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_f4935067ca244ffd97c59d4fd734809f
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.263 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_32db1481ce5d417688d24fd91c9cd6d5
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.311 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_31857ddc7e72426db35cdaf4d1278919
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.249 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_ae0bbb2ffd2b40e4a32b2790d261ef7d
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.032 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_deb143a37d4d415ebfec3740838e182a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.057 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_9c48e41906504e838087efd7e2827ac5
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.764 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_06b607ace87f44a19d46b1a1c254b81b
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.569 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_8cd9535c2da440dca39ceda7da833ed7
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 11.030 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_b1f2a73dbd10424ea9307c271cd50d16
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.675 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_150/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_c8c9cc4465824ac7813d7ee0ef3059f1
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.195 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_a445f8208945495d9cae9c418e81e799
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.760 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_c9105206394542f2bc9daed35d15c79a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.713 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_6dd28d6201d547a6821a8e46e4e8e204
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.138 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_ac07e497efc441cf9e1527e881888afb
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.797 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_3593df824a464a8c921c9816e9aca566
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.821 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_5a85e028e60e4be388dc4553c0970d27
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.322 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_5f31fd6f4b20430bbe3e90ab20deef70
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.757 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_33c67de10371434fa6004552cd561537
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.336 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_65f3ad3e9ce34e0e8bd68eaea49161c0
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.192 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_71b5c18c02dc453096630fcdb8158755
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 11.104 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_b58706f3511b40cbb80edd78cc13cd2f
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.763 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_180/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_1febc83dddba4eba8ab8bc9d18ec381d
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.271 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_0b49be7aafe54a41b3606107f40d9525
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.673 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_ae6a03db4f6249c3963eb5638c3da266
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.883 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_c0869e08309848cda636cf7e6dfaaa87
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.772 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_a7561e50dd2c43999dad82d0ccfe3e1b
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.194 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_272aeadee91a40e5b79ddf4e2d791273
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.971 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_98a17f48baf04eb9aa5d119c78e9726d
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.270 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_5c83aa20262041f5857620e9a79fc96b
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.571 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_f07bc8a9e22b41ba928d19afbf78fd6a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.612 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_17f2a8ba95c34419a023d6b8740ba698
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.727 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_5e34b18daca74a6599dd0fe678c5a4e4
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.734 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_b3878ebc7d864b468b1b672e3240ddfb
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.654 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_210/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_08d718e78e6749b0ab0d69e2c06f70e8
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.376 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_c05a20f390a84c7d9b5a723d4485e12b
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.986 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_da2abf97177f45c7a3b18af97e12cd69
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.018 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_2f50ee20ee5c455cb07caaaaf0ef0128
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.133 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_8e4f662f42b54b0180d0d323de6088c3
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.805 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_89088b86db274721aa8601e22d197b19
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.843 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_0a2a6ea0797d47798850853fb4c3e351
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.233 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_cf0616d678d34cd1b998b845148c3c04
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.664 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_d3e9795cceca4e3bb04cc56268b6ac72
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.725 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_8bae60b648454190baabd006f8ba61a7
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.979 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_baa5592cf9a54799944f3dcbcec37e95
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.894 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_da33b4b35637473c84f46741be3b1976
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.260 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_240/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_8258eb7949a84ce8b4aa4e2ac9302378
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.583 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_9153993d35b241df8e3ffada07f40344
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.271 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_65a156e3747b4a4d8acd0da41fcf7739
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.853 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_2f68906b383c4f12b24facf532ed3b58
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.542 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_86d0b11583764c36a7a5793fd17082db
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.747 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_591a9e869fe04bb5aa5a24a3c6fbf436
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.878 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_6208e947b5d54b8aab42c35671c09a62
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.928 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_45bb1c58ffe748cda119eee2a17fda7e
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.551 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_2db7533e012049c48bbb17a7fa0ce2f2
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.779 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_07eadd7bad7640c5ab042f11132da72a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.837 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_c4b45a6706a740d783c71a918e5dcfe6
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.878 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_ffd696a7cd8d4eba937e5f307c367e82
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.966 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_270/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_ea0f2c2cc2eb4412a541791dbecde05e
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.098 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_dbc41a3899c64287bad758794ccac02c
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.919 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_0b0a0bea1be143b6b2841ad7f308d70a
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.705 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_3e5034fe4cfb4954af3030aa57761a42
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 7.938 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_197f40d4193b46f5960763ad56aca5d0
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.426 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_68cb058b2c944f7bb8de31c4e400c555
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.877 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_e613a5cae7654771a9d5140eea674bab
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.852 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_15755462653f4e05bd11e5b4c91e745c
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.876 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_1cf8cb02945344df8c43385f77e619af
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.861 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_3d243032ff604fd493372a060caa5638
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.098 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_8171e70d02424a5a8e9bb9a0c64911d5
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.069 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_12f40beb77c540e2b888f05cbb1d16d8
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.181 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_300/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_23f89b30b82342be9e40f11c270434bc
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9999759  0.9999036  0.99978316 0.9996145 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.892 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_01/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_01/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_45e6eb27424f47e1882b229057e68b12
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.1 first_values= [0.49999997 0.49509132 0.49018312 0.4852759  0.48037007]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.190 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_01/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_01/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_29bff7523da2415b818ef848be185838
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.0000000e+00 2.4110079e-05 9.6380711e-05 2.1684170e-04 3.8549304e-04]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.925 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_01/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_01/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_cd897ee5a3ab4c2c9deb66b65671456e
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.9 first_values= [0.5        0.50490874 0.50981677 0.514724   0.5196299 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 8.296 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_01/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_01/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_6e2b85010485466fbed665572677dddd
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.06 first_values= [1.         0.9996145  0.9984586  0.9965342  0.99384415]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.162 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_04/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_04/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_40a5d6d60cf0452ba81379a5dc4d9be8
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.48037007 0.46077043 0.44123125 0.42178276]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.205 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_04/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_04/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_ed85ed235d0b44dda82db48d98c83a4f
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.94 first_values= [0.         0.00038549 0.00154135 0.00346577 0.00615585]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.293 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_04/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_04/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_fd225867eeed4cf088878a5ea1721c8f
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.5196299  0.5392296  0.55876875 0.57821727]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.483 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_04/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_04/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_a0ccc681e4df410f9925a5230cabed6b
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 0.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 767999.75 first_values= [1.         0.9965342  0.98618495 0.9690957  0.94550323]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 11.760 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_12/phase_000/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_12/phase_000
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_f583ee1726314915888b520cf47c3169
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 90.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.49999997 0.44123125 0.3832773  0.32694143 0.2730047 ]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 10.498 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_12/phase_090/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_12/phase_090
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_bb07b31d29cd45a890b9e455775d9a98
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 180.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.25 first_values= [0.         0.00346577 0.01381508 0.03090432 0.05449674]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.498 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_12/phase_180/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_12/phase_180
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_5c852dc2758d459cabf0d23543bff73f
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+Device Intel Xeon Silver 4210R CPU @ 2.40GHz of type CPU found and used.
+Selecting render devices...
+Device NVIDIA GeForce RTX 4090 of type OPTIX found and used.
+phase_degree= 270.0 pattern_min= 0.0 pattern_max= 1.0 pattern_sum= 768000.0 first_values= [0.5        0.55876875 0.6167227  0.6730586  0.72699535]
+Rendering 1 frames of colors, depth...
+
+Finished rendering after 9.854 seconds
+Merging data for frame 0 into ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_12/phase_270/0.hdf5
+Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_camera2_12views/view_330/freq_12/phase_270
+
+Blender quit
+Using temporary directory: /dev/shm/blender_proc_2e744a0bb1714501a569cff6a11ca818
+Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
+Cleaning temporary directory
+[1/144] view=0, frequency=1, phase=0
+[2/144] view=0, frequency=1, phase=90
+[3/144] view=0, frequency=1, phase=180
+[4/144] view=0, frequency=1, phase=270
+[5/144] view=0, frequency=4, phase=0
+[6/144] view=0, frequency=4, phase=90
+[7/144] view=0, frequency=4, phase=180
+[8/144] view=0, frequency=4, phase=270
+[9/144] view=0, frequency=12, phase=0
+[10/144] view=0, frequency=12, phase=90
+[11/144] view=0, frequency=12, phase=180
+[12/144] view=0, frequency=12, phase=270
+[13/144] view=30, frequency=1, phase=0
+[14/144] view=30, frequency=1, phase=90
+[15/144] view=30, frequency=1, phase=180
+[16/144] view=30, frequency=1, phase=270
+[17/144] view=30, frequency=4, phase=0
+[18/144] view=30, frequency=4, phase=90
+[19/144] view=30, frequency=4, phase=180
+[20/144] view=30, frequency=4, phase=270
+[21/144] view=30, frequency=12, phase=0
+[22/144] view=30, frequency=12, phase=90
+[23/144] view=30, frequency=12, phase=180
+[24/144] view=30, frequency=12, phase=270
+[25/144] view=60, frequency=1, phase=0
+[26/144] view=60, frequency=1, phase=90
+[27/144] view=60, frequency=1, phase=180
+[28/144] view=60, frequency=1, phase=270
+[29/144] view=60, frequency=4, phase=0
+[30/144] view=60, frequency=4, phase=90
+[31/144] view=60, frequency=4, phase=180
+[32/144] view=60, frequency=4, phase=270
+[33/144] view=60, frequency=12, phase=0
+[34/144] view=60, frequency=12, phase=90
+[35/144] view=60, frequency=12, phase=180
+[36/144] view=60, frequency=12, phase=270
+[37/144] view=90, frequency=1, phase=0
+[38/144] view=90, frequency=1, phase=90
+[39/144] view=90, frequency=1, phase=180
+[40/144] view=90, frequency=1, phase=270
+[41/144] view=90, frequency=4, phase=0
+[42/144] view=90, frequency=4, phase=90
+[43/144] view=90, frequency=4, phase=180
+[44/144] view=90, frequency=4, phase=270
+[45/144] view=90, frequency=12, phase=0
+[46/144] view=90, frequency=12, phase=90
+[47/144] view=90, frequency=12, phase=180
+[48/144] view=90, frequency=12, phase=270
+[49/144] view=120, frequency=1, phase=0
+[50/144] view=120, frequency=1, phase=90
+[51/144] view=120, frequency=1, phase=180
+[52/144] view=120, frequency=1, phase=270
+[53/144] view=120, frequency=4, phase=0
+[54/144] view=120, frequency=4, phase=90
+[55/144] view=120, frequency=4, phase=180
+[56/144] view=120, frequency=4, phase=270
+[57/144] view=120, frequency=12, phase=0
+[58/144] view=120, frequency=12, phase=90
+[59/144] view=120, frequency=12, phase=180
+[60/144] view=120, frequency=12, phase=270
+[61/144] view=150, frequency=1, phase=0
+[62/144] view=150, frequency=1, phase=90
+[63/144] view=150, frequency=1, phase=180
+[64/144] view=150, frequency=1, phase=270
+[65/144] view=150, frequency=4, phase=0
+[66/144] view=150, frequency=4, phase=90
+[67/144] view=150, frequency=4, phase=180
+[68/144] view=150, frequency=4, phase=270
+[69/144] view=150, frequency=12, phase=0
+[70/144] view=150, frequency=12, phase=90
+[71/144] view=150, frequency=12, phase=180
+[72/144] view=150, frequency=12, phase=270
+[73/144] view=180, frequency=1, phase=0
+[74/144] view=180, frequency=1, phase=90
+[75/144] view=180, frequency=1, phase=180
+[76/144] view=180, frequency=1, phase=270
+[77/144] view=180, frequency=4, phase=0
+[78/144] view=180, frequency=4, phase=90
+[79/144] view=180, frequency=4, phase=180
+[80/144] view=180, frequency=4, phase=270
+[81/144] view=180, frequency=12, phase=0
+[82/144] view=180, frequency=12, phase=90
+[83/144] view=180, frequency=12, phase=180
+[84/144] view=180, frequency=12, phase=270
+[85/144] view=210, frequency=1, phase=0
+[86/144] view=210, frequency=1, phase=90
+[87/144] view=210, frequency=1, phase=180
+[88/144] view=210, frequency=1, phase=270
+[89/144] view=210, frequency=4, phase=0
+[90/144] view=210, frequency=4, phase=90
+[91/144] view=210, frequency=4, phase=180
+[92/144] view=210, frequency=4, phase=270
+[93/144] view=210, frequency=12, phase=0
+[94/144] view=210, frequency=12, phase=90
+[95/144] view=210, frequency=12, phase=180
+[96/144] view=210, frequency=12, phase=270
+[97/144] view=240, frequency=1, phase=0
+[98/144] view=240, frequency=1, phase=90
+[99/144] view=240, frequency=1, phase=180
+[100/144] view=240, frequency=1, phase=270
+[101/144] view=240, frequency=4, phase=0
+[102/144] view=240, frequency=4, phase=90
+[103/144] view=240, frequency=4, phase=180
+[104/144] view=240, frequency=4, phase=270
+[105/144] view=240, frequency=12, phase=0
+[106/144] view=240, frequency=12, phase=90
+[107/144] view=240, frequency=12, phase=180
+[108/144] view=240, frequency=12, phase=270
+[109/144] view=270, frequency=1, phase=0
+[110/144] view=270, frequency=1, phase=90
+[111/144] view=270, frequency=1, phase=180
+[112/144] view=270, frequency=1, phase=270
+[113/144] view=270, frequency=4, phase=0
+[114/144] view=270, frequency=4, phase=90
+[115/144] view=270, frequency=4, phase=180
+[116/144] view=270, frequency=4, phase=270
+[117/144] view=270, frequency=12, phase=0
+[118/144] view=270, frequency=12, phase=90
+[119/144] view=270, frequency=12, phase=180
+[120/144] view=270, frequency=12, phase=270
+[121/144] view=300, frequency=1, phase=0
+[122/144] view=300, frequency=1, phase=90
+[123/144] view=300, frequency=1, phase=180
+[124/144] view=300, frequency=1, phase=270
+[125/144] view=300, frequency=4, phase=0
+[126/144] view=300, frequency=4, phase=90
+[127/144] view=300, frequency=4, phase=180
+[128/144] view=300, frequency=4, phase=270
+[129/144] view=300, frequency=12, phase=0
+[130/144] view=300, frequency=12, phase=90
+[131/144] view=300, frequency=12, phase=180
+[132/144] view=300, frequency=12, phase=270
+[133/144] view=330, frequency=1, phase=0
+[134/144] view=330, frequency=1, phase=90
+[135/144] view=330, frequency=1, phase=180
+[136/144] view=330, frequency=1, phase=270
+[137/144] view=330, frequency=4, phase=0
+[138/144] view=330, frequency=4, phase=90
+[139/144] view=330, frequency=4, phase=180
+[140/144] view=330, frequency=4, phase=270
+[141/144] view=330, frequency=12, phase=0
+[142/144] view=330, frequency=12, phase=90
+[143/144] view=330, frequency=12, phase=180
+[144/144] view=330, frequency=12, phase=270
+All multiview captures completed.
+capture_count=144
+============================================================
+Stage 3: decode and reconstruct 12 views
+============================================================
+frequency 1: valid_ratio=0.783174, ratio_median=1.309731
+frequency 4: valid_ratio=0.782904, ratio_median=1.293271
+frequency 12: valid_ratio=0.783024, ratio_median=1.288759
+base valid ratio: 0.77046875
+final valid ratio: 0.769931640625
+projector u range: 2.6178298 639.7554
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_000/phase
+point_count: 53354
+rmse_m: 0.01246395
+median_error_m: 0.00034129
+p95_error_m: 0.00094031
+max_error_m: 0.47537918
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_000/reconstruction
+frequency 1: valid_ratio=0.782018, ratio_median=1.317328
+frequency 4: valid_ratio=0.781930, ratio_median=1.306779
+frequency 12: valid_ratio=0.781927, ratio_median=1.303476
+base valid ratio: 0.7713606770833333
+final valid ratio: 0.770576171875
+projector u range: 2.401738 639.9204
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_030/phase
+point_count: 47953
+rmse_m: 0.01444216
+median_error_m: 0.00032718
+p95_error_m: 0.00061251
+max_error_m: 0.62176208
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_030/reconstruction
+frequency 1: valid_ratio=0.786504, ratio_median=1.313172
+frequency 4: valid_ratio=0.786364, ratio_median=1.294997
+frequency 12: valid_ratio=0.786221, ratio_median=1.288670
+base valid ratio: 0.7732063802083333
+final valid ratio: 0.771494140625
+projector u range: 2.5395203 639.7785
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_060/phase
+point_count: 51917
+rmse_m: 0.01199352
+median_error_m: 0.00033378
+p95_error_m: 0.00073869
+max_error_m: 0.29126234
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_060/reconstruction
+frequency 1: valid_ratio=0.782135, ratio_median=1.311859
+frequency 4: valid_ratio=0.781940, ratio_median=1.293224
+frequency 12: valid_ratio=0.781956, ratio_median=1.288055
+base valid ratio: 0.7666861979166667
+final valid ratio: 0.7663997395833333
+projector u range: 2.6394205 639.8563
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_090/phase
+point_count: 51115
+rmse_m: 0.01268555
+median_error_m: 0.00034006
+p95_error_m: 0.00114360
+max_error_m: 0.48336894
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_090/reconstruction
+frequency 1: valid_ratio=0.781943, ratio_median=1.323000
+frequency 4: valid_ratio=0.781859, ratio_median=1.314048
+frequency 12: valid_ratio=0.781820, ratio_median=1.310852
+base valid ratio: 0.7691731770833333
+final valid ratio: 0.7674348958333334
+projector u range: 2.5936005 639.87585
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_120/phase
+point_count: 42060
+rmse_m: 0.01321101
+median_error_m: 0.00033578
+p95_error_m: 0.00165419
+max_error_m: 0.53919872
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_120/reconstruction
+frequency 1: valid_ratio=0.789271, ratio_median=1.314552
+frequency 4: valid_ratio=0.788975, ratio_median=1.294944
+frequency 12: valid_ratio=0.788841, ratio_median=1.288604
+base valid ratio: 0.7717805989583333
+final valid ratio: 0.7692220052083333
+projector u range: 2.6112201 639.9134
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_150/phase
+point_count: 48774
+rmse_m: 0.01200913
+median_error_m: 0.00034093
+p95_error_m: 0.00138769
+max_error_m: 0.29224491
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_150/reconstruction
+frequency 1: valid_ratio=0.783174, ratio_median=1.309731
+frequency 4: valid_ratio=0.782904, ratio_median=1.293271
+frequency 12: valid_ratio=0.783024, ratio_median=1.288759
+base valid ratio: 0.77046875
+final valid ratio: 0.769931640625
+projector u range: 2.6178298 639.7554
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_180/phase
+point_count: 53354
+rmse_m: 0.01246395
+median_error_m: 0.00034131
+p95_error_m: 0.00094031
+max_error_m: 0.47537918
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_180/reconstruction
+frequency 1: valid_ratio=0.782018, ratio_median=1.317327
+frequency 4: valid_ratio=0.781930, ratio_median=1.306779
+frequency 12: valid_ratio=0.781927, ratio_median=1.303476
+base valid ratio: 0.7713606770833333
+final valid ratio: 0.770576171875
+projector u range: 2.401738 639.9204
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_210/phase
+point_count: 47953
+rmse_m: 0.01444216
+median_error_m: 0.00032718
+p95_error_m: 0.00061262
+max_error_m: 0.62176208
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_210/reconstruction
+frequency 1: valid_ratio=0.786504, ratio_median=1.313172
+frequency 4: valid_ratio=0.786364, ratio_median=1.294997
+frequency 12: valid_ratio=0.786221, ratio_median=1.288670
+base valid ratio: 0.7732063802083333
+final valid ratio: 0.771494140625
+projector u range: 2.5395203 639.7785
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_240/phase
+point_count: 51917
+rmse_m: 0.01199352
+median_error_m: 0.00033377
+p95_error_m: 0.00073866
+max_error_m: 0.29126234
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_240/reconstruction
+frequency 1: valid_ratio=0.782135, ratio_median=1.311859
+frequency 4: valid_ratio=0.781940, ratio_median=1.293224
+frequency 12: valid_ratio=0.781956, ratio_median=1.288055
+base valid ratio: 0.7666861979166667
+final valid ratio: 0.7663997395833333
+projector u range: 2.6394205 639.8563
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_270/phase
+point_count: 51115
+rmse_m: 0.01268555
+median_error_m: 0.00034007
+p95_error_m: 0.00114379
+max_error_m: 0.48336894
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_270/reconstruction
+frequency 1: valid_ratio=0.781943, ratio_median=1.323000
+frequency 4: valid_ratio=0.781859, ratio_median=1.314048
+frequency 12: valid_ratio=0.781820, ratio_median=1.310852
+base valid ratio: 0.7691731770833333
+final valid ratio: 0.7674348958333334
+projector u range: 2.5936005 639.87585
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_300/phase
+point_count: 42060
+rmse_m: 0.01321102
+median_error_m: 0.00033578
+p95_error_m: 0.00165419
+max_error_m: 0.53919872
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_300/reconstruction
+frequency 1: valid_ratio=0.789271, ratio_median=1.314552
+frequency 4: valid_ratio=0.788975, ratio_median=1.294944
+frequency 12: valid_ratio=0.788841, ratio_median=1.288604
+base valid ratio: 0.7717805989583333
+final valid ratio: 0.7692220052083333
+projector u range: 2.6112201 639.9134
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_330/phase
+point_count: 48774
+rmse_m: 0.01200913
+median_error_m: 0.00034095
+p95_error_m: 0.00138769
+max_error_m: 0.29224491
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_horizontal_hole_camera2_12views/view_330/reconstruction
+
+[1/12] view=0
+
+[2/12] view=30
+
+[3/12] view=60
+
+[4/12] view=90
+
+[5/12] view=120
+
+[6/12] view=150
+
+[7/12] view=180
+
+[8/12] view=210
+
+[9/12] view=240
+
+[10/12] view=270
+
+[11/12] view=300
+
+[12/12] view=330
+
+All 16-bit views reconstructed.
+reconstruction_count=12
+============================================================
+Stage 4: camera2 TSDF
+============================================================
+view 000: depth pixels 53354 -> 53388
+view 000: integrated 53354 depth pixels, range 0.4438-0.6169 m
+view 030: depth pixels 47953 -> 47965
+view 030: integrated 47953 depth pixels, range 0.4366-0.5629 m
+view 060: depth pixels 51917 -> 51917
+view 060: integrated 51917 depth pixels, range 0.4481-0.6172 m
+view 090: depth pixels 51115 -> 51115
+view 090: integrated 51115 depth pixels, range 0.4420-0.6324 m
+view 120: depth pixels 42060 -> 42695
+view 120: integrated 42060 depth pixels, range 0.4444-0.5708 m
+view 150: depth pixels 48774 -> 49558
+view 150: integrated 48774 depth pixels, range 0.4449-0.6393 m
+view 180: depth pixels 53354 -> 53388
+view 180: integrated 53354 depth pixels, range 0.4438-0.6169 m
+view 210: depth pixels 47953 -> 47965
+view 210: integrated 47953 depth pixels, range 0.4366-0.5629 m
+view 240: depth pixels 51917 -> 51917
+view 240: integrated 51917 depth pixels, range 0.4481-0.6172 m
+view 270: depth pixels 51115 -> 51115
+view 270: integrated 51115 depth pixels, range 0.4420-0.6324 m
+view 300: depth pixels 42060 -> 42695
+view 300: integrated 42060 depth pixels, range 0.4444-0.5708 m
+view 330: depth pixels 48774 -> 49558
+view 330: integrated 48774 depth pixels, range 0.4449-0.6393 m
+vertex_count: 70846
+face_count: 137408
+body_count: 203
+watertight: False
+extent_m: [0.133, 0.111, 0.09708037194628115]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/tsdf_horizontal_hole_camera2_12views
+============================================================
+Stage 5: volume metrics
+============================================================
+components= 211
+main_ratio= 0.9946291336748952
+area_m2= 0.06131661631768698
+boundary_edges= 3046
+raw_cm3= 977.8773350155362
+raw_error_percent= 2.9883596214745802
+corrected_cm3= 1020.968540509169
+corrected_error_percent= 1.286561558449303
+============================================================
+Stage 6: topology section check
+============================================================
+triangles_crossing_x0= 731
+section_is_none= False
+section_entities= 6
+closed_curve_count= 0
+============================================================
+Pipeline complete
+Status: outputs/horizontal_hole_camera2_pipeline_status.txt
+Volume: outputs/tsdf_horizontal_hole_camera2_12views/camera2_volume_metrics.txt
+Topology: outputs/tsdf_horizontal_hole_camera2_12views/camera2_topology_metrics.txt
+============================================================

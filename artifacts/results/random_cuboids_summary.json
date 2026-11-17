@@ -1,0 +1,10 @@
+{
+  "successful_cases": 30,
+  "mean_error_percent": 0.9954679666666667,
+  "median_error_percent": 0.9145085,
+  "p95_error_percent": 2.3125778499999967,
+  "max_error_percent": 3.051113,
+  "within_1_percent": 0.5333333333333333,
+  "within_2_percent": 0.9333333333333333,
+  "within_3_percent": 0.9666666666666667
+}

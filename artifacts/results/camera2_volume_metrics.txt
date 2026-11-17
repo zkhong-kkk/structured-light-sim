@@ -1,0 +1,8 @@
+components= 211
+main_ratio= 0.9946291336748952
+area_m2= 0.06131661631768698
+boundary_edges= 3046
+raw_cm3= 977.8773350155362
+raw_error_percent= 2.9883596214745802
+corrected_cm3= 1020.968540509169
+corrected_error_percent= 1.286561558449303

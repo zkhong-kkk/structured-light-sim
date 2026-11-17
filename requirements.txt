@@ -1,0 +1,12 @@
+# Python 3.11 is the validated environment.
+blenderproc==2.8.0
+numpy
+scipy
+opencv-contrib-python-headless
+h5py
+open3d==0.19.0
+trimesh
+networkx
+pandas
+pyyaml
+

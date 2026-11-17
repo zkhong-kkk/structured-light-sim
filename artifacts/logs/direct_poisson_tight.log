@@ -1,0 +1,34 @@
+upper view 000: 26506 points
+upper view 030: 24574 points
+upper view 060: 28906 points
+upper view 090: 22255 points
+upper view 120: 19571 points
+upper view 150: 29652 points
+upper view 180: 26506 points
+upper view 210: 24574 points
+upper view 240: 28906 points
+upper view 270: 22255 points
+upper view 300: 19571 points
+upper view 330: 29652 points
+lower view 000: 58481 points
+lower view 030: 50929 points
+lower view 060: 56633 points
+lower view 090: 57078 points
+lower view 120: 37849 points
+lower view 150: 53099 points
+lower view 180: 58481 points
+lower view 210: 50929 points
+lower view 240: 56633 points
+lower view 270: 57078 points
+lower view 300: 37849 points
+lower view 330: 53099 points
+points before downsampling: 931066
+points after downsampling: 107858
+input_point_count: 931066
+downsampled_point_count: 107858
+vertex_count: 201201
+face_count: 402228
+watertight: False
+extent_m: [0.1430087834596634, 0.10839197039604187, 0.12015292793512344]
+volume_cm3: 1179.580707359558
+

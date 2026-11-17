@@ -1,0 +1,5 @@
+method_id,display_name,camera_projector_layout,views,captures,ground_truth_cm3,corrected_volume_cm3,corrected_error_percent,closed_hole_loop,hole_extent_y_mm,hole_extent_z_mm,volume_source,topology_source
+single_upper,单相机,one upper camera-projector pair,12,144,1008.0,1018.1435076764,1.0063003647,False,,,ROI-TSDF,TSDF section
+dual_same_side,同侧双相机,two upper cameras with common upper illumination,12,288,1008.0,1019.1189332462,1.1030687744,False,,,ROI-TSDF,TSDF section
+dual_complementary,上下互补双路,upper and lower camera-projector pairs,12,288,1008.0,1015.3145977474,0.7256545384,True,40.69369,40.53752,ROI-TSDF,oriented-point Poisson section
+

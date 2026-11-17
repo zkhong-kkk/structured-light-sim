@@ -1,0 +1,287 @@
+
+============================================================
+Running area1_kernel5_iter1
+min_component_area=1
+fill_kernel=5
+fill_iterations=1
+============================================================
+camera1 view 000: depth 26519 -> 26531, range 0.5622-0.7264 m
+camera1 view 030: depth 24610 -> 24830, range 0.5587-0.7467 m
+camera1 view 060: depth 28929 -> 29049, range 0.5612-0.7536 m
+camera1 view 090: depth 22272 -> 22575, range 0.5569-0.7400 m
+camera1 view 120: depth 19584 -> 19772, range 0.5653-0.7533 m
+camera1 view 150: depth 29678 -> 30098, range 0.5612-0.7467 m
+camera1 view 180: depth 26519 -> 26531, range 0.5622-0.7264 m
+camera1 view 210: depth 24610 -> 24830, range 0.5587-0.7467 m
+camera1 view 240: depth 28929 -> 29049, range 0.5612-0.7536 m
+camera1 view 270: depth 22272 -> 22575, range 0.5569-0.7400 m
+camera1 view 300: depth 19584 -> 19772, range 0.5653-0.7533 m
+camera1 view 330: depth 29678 -> 30098, range 0.5612-0.7467 m
+camera2 view 000: depth 53354 -> 53389, range 0.4438-0.6169 m
+camera2 view 030: depth 47953 -> 47967, range 0.4366-0.5629 m
+camera2 view 060: depth 51917 -> 52001, range 0.4481-0.6172 m
+camera2 view 090: depth 51115 -> 51434, range 0.4420-0.6324 m
+camera2 view 120: depth 42060 -> 42696, range 0.4444-0.5708 m
+camera2 view 150: depth 48774 -> 49558, range 0.4449-0.6393 m
+camera2 view 180: depth 53354 -> 53389, range 0.4438-0.6169 m
+camera2 view 210: depth 47953 -> 47967, range 0.4366-0.5629 m
+camera2 view 240: depth 51917 -> 52001, range 0.4481-0.6172 m
+camera2 view 270: depth 51115 -> 51434, range 0.4420-0.6324 m
+camera2 view 300: depth 42060 -> 42696, range 0.4444-0.5708 m
+camera2 view 330: depth 48774 -> 49558, range 0.4449-0.6393 m
+[1;33m[Open3D WARNING] Write Ply clamped color value to valid range[0;m
+camera1_frames: 12
+camera2_frames: 12
+total_frames: 24
+vertex_count: 73538
+face_count: 143616
+body_count: 233
+watertight: False
+extent_m: [0.19396437606312972, 0.1559643760631297, 0.10055399563774683]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/dual_tsdf_sweep/area1_kernel5_iter1
+name=area1_kernel5_iter1
+components= 239
+main_ratio= 0.9890680704099821
+boundary_edges= 2094
+raw_cm3= 974.1658126380878
+corrected_cm3= 1019.1189332462219
+corrected_error_percent= 1.1030687744267758
+section_entities= 8
+closed_curve_count= 0
+curve_extents_yz_m= []
+outer_loop_found= False
+inner_loop_found= False
+topology_pass= False
+
+============================================================
+Running area5_kernel5_iter1
+min_component_area=5
+fill_kernel=5
+fill_iterations=1
+============================================================
+camera1 view 000: depth 26519 -> 26523, range 0.5622-0.7264 m
+camera1 view 030: depth 24610 -> 24806, range 0.5587-0.7467 m
+camera1 view 060: depth 28929 -> 29035, range 0.5612-0.7536 m
+camera1 view 090: depth 22272 -> 22558, range 0.5569-0.7400 m
+camera1 view 120: depth 19584 -> 19759, range 0.5653-0.7533 m
+camera1 view 150: depth 29678 -> 30074, range 0.5612-0.7467 m
+camera1 view 180: depth 26519 -> 26523, range 0.5622-0.7264 m
+camera1 view 210: depth 24610 -> 24806, range 0.5587-0.7467 m
+camera1 view 240: depth 28929 -> 29035, range 0.5612-0.7536 m
+camera1 view 270: depth 22272 -> 22558, range 0.5569-0.7400 m
+camera1 view 300: depth 19584 -> 19759, range 0.5653-0.7533 m
+camera1 view 330: depth 29678 -> 30074, range 0.5612-0.7467 m
+camera2 view 000: depth 53354 -> 53388, range 0.4438-0.6169 m
+camera2 view 030: depth 47953 -> 47965, range 0.4366-0.5629 m
+camera2 view 060: depth 51917 -> 52000, range 0.4481-0.6172 m
+camera2 view 090: depth 51115 -> 51431, range 0.4420-0.6324 m
+camera2 view 120: depth 42060 -> 42695, range 0.4444-0.5708 m
+camera2 view 150: depth 48774 -> 49558, range 0.4449-0.6393 m
+camera2 view 180: depth 53354 -> 53388, range 0.4438-0.6169 m
+camera2 view 210: depth 47953 -> 47965, range 0.4366-0.5629 m
+camera2 view 240: depth 51917 -> 52000, range 0.4481-0.6172 m
+camera2 view 270: depth 51115 -> 51431, range 0.4420-0.6324 m
+camera2 view 300: depth 42060 -> 42695, range 0.4444-0.5708 m
+camera2 view 330: depth 48774 -> 49558, range 0.4449-0.6393 m
+[1;33m[Open3D WARNING] Write Ply clamped color value to valid range[0;m
+camera1_frames: 12
+camera2_frames: 12
+total_frames: 24
+vertex_count: 73538
+face_count: 143616
+body_count: 233
+watertight: False
+extent_m: [0.19396437606312972, 0.1559643760631297, 0.10055399563774683]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/dual_tsdf_sweep/area5_kernel5_iter1
+name=area5_kernel5_iter1
+components= 239
+main_ratio= 0.9890680704099821
+boundary_edges= 2094
+raw_cm3= 974.1658126380875
+corrected_cm3= 1019.1189332462214
+corrected_error_percent= 1.1030687744267307
+section_entities= 8
+closed_curve_count= 0
+curve_extents_yz_m= []
+outer_loop_found= False
+inner_loop_found= False
+topology_pass= False
+
+============================================================
+Running area1_kernel7_iter1
+min_component_area=1
+fill_kernel=7
+fill_iterations=1
+============================================================
+camera1 view 000: depth 26519 -> 26574, range 0.5622-0.7264 m
+camera1 view 030: depth 24610 -> 24905, range 0.5587-0.7467 m
+camera1 view 060: depth 28929 -> 29049, range 0.5612-0.7536 m
+camera1 view 090: depth 22272 -> 22626, range 0.5569-0.7400 m
+camera1 view 120: depth 19584 -> 19805, range 0.5653-0.7533 m
+camera1 view 150: depth 29678 -> 30104, range 0.5612-0.7467 m
+camera1 view 180: depth 26519 -> 26574, range 0.5622-0.7264 m
+camera1 view 210: depth 24610 -> 24905, range 0.5587-0.7467 m
+camera1 view 240: depth 28929 -> 29049, range 0.5612-0.7536 m
+camera1 view 270: depth 22272 -> 22626, range 0.5569-0.7400 m
+camera1 view 300: depth 19584 -> 19805, range 0.5653-0.7533 m
+camera1 view 330: depth 29678 -> 30104, range 0.5612-0.7467 m
+camera2 view 000: depth 53354 -> 53395, range 0.4438-0.6169 m
+camera2 view 030: depth 47953 -> 47983, range 0.4366-0.5629 m
+camera2 view 060: depth 51917 -> 52001, range 0.4481-0.6172 m
+camera2 view 090: depth 51115 -> 51490, range 0.4420-0.6324 m
+camera2 view 120: depth 42060 -> 42765, range 0.4444-0.5708 m
+camera2 view 150: depth 48774 -> 49734, range 0.4449-0.6393 m
+camera2 view 180: depth 53354 -> 53395, range 0.4438-0.6169 m
+camera2 view 210: depth 47953 -> 47983, range 0.4366-0.5629 m
+camera2 view 240: depth 51917 -> 52001, range 0.4481-0.6172 m
+camera2 view 270: depth 51115 -> 51490, range 0.4420-0.6324 m
+camera2 view 300: depth 42060 -> 42765, range 0.4444-0.5708 m
+camera2 view 330: depth 48774 -> 49734, range 0.4449-0.6393 m
+[1;33m[Open3D WARNING] Write Ply clamped color value to valid range[0;m
+camera1_frames: 12
+camera2_frames: 12
+total_frames: 24
+vertex_count: 74200
+face_count: 144776
+body_count: 223
+watertight: False
+extent_m: [0.221, 0.161, 0.13927530691228843]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/dual_tsdf_sweep/area1_kernel7_iter1
+name=area1_kernel7_iter1
+components= 225
+main_ratio= 0.988520196717688
+boundary_edges= 2262
+raw_cm3= 973.5703159200089
+corrected_cm3= 1018.7744341826777
+corrected_error_percent= 1.0688922800275533
+section_entities= 8
+closed_curve_count= 0
+curve_extents_yz_m= []
+outer_loop_found= False
+inner_loop_found= False
+topology_pass= False
+
+============================================================
+Running area1_kernel9_iter1
+min_component_area=1
+fill_kernel=9
+fill_iterations=1
+============================================================
+camera1 view 000: depth 26519 -> 26639, range 0.5622-0.7264 m
+camera1 view 030: depth 24610 -> 24962, range 0.5587-0.7467 m
+camera1 view 060: depth 28929 -> 29079, range 0.5612-0.7536 m
+camera1 view 090: depth 22272 -> 22652, range 0.5569-0.7400 m
+camera1 view 120: depth 19584 -> 19812, range 0.5653-0.7533 m
+camera1 view 150: depth 29678 -> 30177, range 0.5612-0.7467 m
+camera1 view 180: depth 26519 -> 26639, range 0.5622-0.7264 m
+camera1 view 210: depth 24610 -> 24962, range 0.5587-0.7467 m
+camera1 view 240: depth 28929 -> 29079, range 0.5612-0.7536 m
+camera1 view 270: depth 22272 -> 22652, range 0.5569-0.7400 m
+camera1 view 300: depth 19584 -> 19812, range 0.5653-0.7533 m
+camera1 view 330: depth 29678 -> 30177, range 0.5612-0.7467 m
+camera2 view 000: depth 53354 -> 53395, range 0.4438-0.6169 m
+camera2 view 030: depth 47953 -> 47990, range 0.4366-0.5629 m
+camera2 view 060: depth 51917 -> 52001, range 0.4481-0.6172 m
+camera2 view 090: depth 51115 -> 51541, range 0.4420-0.6324 m
+camera2 view 120: depth 42060 -> 42868, range 0.4444-0.5708 m
+camera2 view 150: depth 48774 -> 49734, range 0.4449-0.6393 m
+camera2 view 180: depth 53354 -> 53395, range 0.4438-0.6169 m
+camera2 view 210: depth 47953 -> 47990, range 0.4366-0.5629 m
+camera2 view 240: depth 51917 -> 52001, range 0.4481-0.6172 m
+camera2 view 270: depth 51115 -> 51541, range 0.4420-0.6324 m
+camera2 view 300: depth 42060 -> 42868, range 0.4444-0.5708 m
+camera2 view 330: depth 48774 -> 49734, range 0.4449-0.6393 m
+[1;33m[Open3D WARNING] Write Ply clamped color value to valid range[0;m
+camera1_frames: 12
+camera2_frames: 12
+total_frames: 24
+vertex_count: 74806
+face_count: 145512
+body_count: 265
+watertight: False
+extent_m: [0.27984344239695874, 0.265, 0.14155399563774684]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/dual_tsdf_sweep/area1_kernel9_iter1
+name=area1_kernel9_iter1
+components= 267
+main_ratio= 0.983671449777338
+boundary_edges= 2220
+raw_cm3= 972.9532203151591
+corrected_cm3= 1018.1635171410235
+corrected_error_percent= 1.0082854306570908
+section_entities= 8
+closed_curve_count= 0
+curve_extents_yz_m= []
+outer_loop_found= False
+inner_loop_found= False
+topology_pass= False
+
+============================================================
+Running area1_kernel7_iter2
+min_component_area=1
+fill_kernel=7
+fill_iterations=2
+============================================================
+camera1 view 000: depth 26519 -> 26655, range 0.5622-0.7264 m
+camera1 view 030: depth 24610 -> 25127, range 0.5587-0.7467 m
+camera1 view 060: depth 28929 -> 29090, range 0.5612-0.7536 m
+camera1 view 090: depth 22272 -> 22783, range 0.5569-0.7400 m
+camera1 view 120: depth 19584 -> 19959, range 0.5653-0.7533 m
+camera1 view 150: depth 29678 -> 30213, range 0.5612-0.7467 m
+camera1 view 180: depth 26519 -> 26655, range 0.5622-0.7264 m
+camera1 view 210: depth 24610 -> 25127, range 0.5587-0.7467 m
+camera1 view 240: depth 28929 -> 29090, range 0.5612-0.7536 m
+camera1 view 270: depth 22272 -> 22783, range 0.5569-0.7400 m
+camera1 view 300: depth 19584 -> 19959, range 0.5653-0.7533 m
+camera1 view 330: depth 29678 -> 30213, range 0.5612-0.7467 m
+camera2 view 000: depth 53354 -> 53395, range 0.4438-0.6169 m
+camera2 view 030: depth 47953 -> 47990, range 0.4366-0.5629 m
+camera2 view 060: depth 51917 -> 52006, range 0.4481-0.6172 m
+camera2 view 090: depth 51115 -> 51645, range 0.4420-0.6324 m
+camera2 view 120: depth 42060 -> 43107, range 0.4444-0.5708 m
+camera2 view 150: depth 48774 -> 49734, range 0.4449-0.6393 m
+camera2 view 180: depth 53354 -> 53395, range 0.4438-0.6169 m
+camera2 view 210: depth 47953 -> 47990, range 0.4366-0.5629 m
+camera2 view 240: depth 51917 -> 52006, range 0.4481-0.6172 m
+camera2 view 270: depth 51115 -> 51645, range 0.4420-0.6324 m
+camera2 view 300: depth 42060 -> 43107, range 0.4444-0.5708 m
+camera2 view 330: depth 48774 -> 49734, range 0.4449-0.6393 m
+[1;33m[Open3D WARNING] Write Ply clamped color value to valid range[0;m
+camera1_frames: 12
+camera2_frames: 12
+total_frames: 24
+vertex_count: 75522
+face_count: 146440
+body_count: 293
+watertight: False
+extent_m: [0.27984344239695874, 0.265, 0.16155399563774683]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/dual_tsdf_sweep/area1_kernel7_iter2
+name=area1_kernel7_iter2
+components= 299
+main_ratio= 0.9804288445779842
+boundary_edges= 2354
+raw_cm3= 972.781568074774
+corrected_cm3= 1018.0968033613723
+corrected_error_percent= 1.001667000136139
+section_entities= 12
+closed_curve_count= 2
+curve_extents_yz_m= [TrackedArray([0.00071736, 0.00044731]), TrackedArray([0.00071736, 0.00044731])]
+outer_loop_found= False
+inner_loop_found= False
+topology_pass= False
+
+Sweep completed.

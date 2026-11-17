@@ -1,0 +1,4 @@
+triangles_crossing_x0= 731
+section_is_none= False
+section_entities= 6
+closed_curve_count= 0

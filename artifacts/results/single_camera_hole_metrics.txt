@@ -1,0 +1,11 @@
+components= 165
+main_ratio= 0.996620313849269
+area_m2= 0.061112094762399816
+boundary_edges= 1820
+raw_cm3= 975.1960328857604
+raw_error_percent= 3.2543618168888533
+corrected_cm3= 1018.1435076764285
+corrected_error_percent= 1.0063003647250495
+section_entities= 5
+closed_curve_count= 0
+

@@ -1,0 +1,6 @@
+name,boundary_edges,corrected_error_percent,closed_curve_count,inner_loop_found,topology_pass
+area1_kernel5_iter1,2094,1.1030687744267758,0,False,False
+area1_kernel7_iter1,2262,1.0688922800275533,0,False,False
+area1_kernel7_iter2,2354,1.001667000136139,2,False,False
+area1_kernel9_iter1,2220,1.0082854306570908,0,False,False
+area5_kernel5_iter1,2094,1.1030687744267307,0,False,False

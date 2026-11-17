@@ -1,0 +1,15 @@
+components= 155
+main_ratio= 0.9877301425527127
+boundary_edges= 2296
+watertight= False
+surface_area_m2= 0.06741069616166076
+raw_cm3= 967.9406828900836
+raw_error_percent= 3.9741386021742438
+corrected_cm3= 1015.3145977473694
+corrected_error_percent= 0.7256545384295001
+section_entities= 12
+closed_curve_count= 0
+curve_extents_yz_m= []
+outer_loop_found= False
+inner_loop_found= False
+hole_topology_pass= False

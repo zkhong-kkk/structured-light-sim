@@ -1,0 +1,10 @@
+ground_truth_cm3= 3072.0
+raw_tsdf_cm3= 3002.6401455680148
+raw_error_percent= 2.257807761457853
+surface_area_m2= 0.11566681648099963
+surface_offset_m= 0.0007027655484179588
+corrected_tsdf_cm3= 3083.926799286044
+corrected_error_percent= 0.3882421642592485
+convex_hull_cm3= 3603.113
+convex_hull_error_percent= 17.289
+

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Blender / BlenderProc temporary files
+*.blend
+*.blend1
+*.blend2
+blender_proc_*/
+
+# Large generated data. Public, curated evidence lives in artifacts/.
+/outputs/
+/logs/
+/*.log
+*.hdf5
+*.h5
+*.exr
+*.ply
+*.stl
+*.obj
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+

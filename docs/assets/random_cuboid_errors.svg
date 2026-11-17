@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,"Microsoft YaHei",sans-serif;fill:#172033}.title{font-size:22px;font-weight:700}.label{font-size:12px}.value{font-size:13px;font-weight:700}.grid{stroke:#d9e0ea;stroke-width:1}</style>
+<text x="500" y="30" text-anchor="middle" class="title">30 个随机长方体校正后体积误差</text>
+<line x1="70" y1="390.0" x2="975" y2="390.0" class="grid"/>
+<text x="60" y="394.0" text-anchor="end" class="label">0%</text>
+<line x1="70" y1="294.3" x2="975" y2="294.3" class="grid"/>
+<text x="60" y="298.3" text-anchor="end" class="label">1%</text>
+<line x1="70" y1="198.6" x2="975" y2="198.6" class="grid"/>
+<text x="60" y="202.6" text-anchor="end" class="label">2%</text>
+<line x1="70" y1="102.9" x2="975" y2="102.9" class="grid"/>
+<text x="60" y="106.9" text-anchor="end" class="label">3%</text>
+<rect x="71.0" y="343.7" width="28.2" height="46.3" fill="#277da1"><title>cuboid_000: 0.483%</title></rect>
+<text x="86.1" y="408" text-anchor="middle" class="label" transform="rotate(55 86.1 408)">00</text>
+<rect x="101.2" y="235.5" width="28.2" height="154.5" fill="#277da1"><title>cuboid_001: 1.615%</title></rect>
+<rect x="131.3" y="244.9" width="28.2" height="145.1" fill="#277da1"><title>cuboid_002: 1.516%</title></rect>
+<text x="146.4" y="408" text-anchor="middle" class="label" transform="rotate(55 146.4 408)">02</text>
+<rect x="161.5" y="273.3" width="28.2" height="116.7" fill="#277da1"><title>cuboid_003: 1.220%</title></rect>
+<rect x="191.7" y="310.3" width="28.2" height="79.7" fill="#277da1"><title>cuboid_004: 0.832%</title></rect>
+<text x="206.8" y="408" text-anchor="middle" class="label" transform="rotate(55 206.8 408)">04</text>
+<rect x="221.8" y="273.9" width="28.2" height="116.1" fill="#277da1"><title>cuboid_005: 1.213%</title></rect>
+<rect x="252.0" y="359.7" width="28.2" height="30.3" fill="#277da1"><title>cuboid_006: 0.317%</title></rect>
+<text x="267.1" y="408" text-anchor="middle" class="label" transform="rotate(55 267.1 408)">06</text>
+<rect x="282.2" y="278.7" width="28.2" height="111.3" fill="#277da1"><title>cuboid_007: 1.162%</title></rect>
+<rect x="312.3" y="325.7" width="28.2" height="64.3" fill="#277da1"><title>cuboid_008: 0.672%</title></rect>
+<text x="327.4" y="408" text-anchor="middle" class="label" transform="rotate(55 327.4 408)">08</text>
+<rect x="342.5" y="342.4" width="28.2" height="47.6" fill="#277da1"><title>cuboid_009: 0.497%</title></rect>
+<rect x="372.7" y="245.0" width="28.2" height="145.0" fill="#277da1"><title>cuboid_010: 1.514%</title></rect>
+<text x="387.8" y="408" text-anchor="middle" class="label" transform="rotate(55 387.8 408)">10</text>
+<rect x="402.8" y="98.0" width="28.2" height="292.0" fill="#d95d39"><title>cuboid_011: 3.051%</title></rect>
+<rect x="433.0" y="340.1" width="28.2" height="49.9" fill="#277da1"><title>cuboid_012: 0.521%</title></rect>
+<text x="448.1" y="408" text-anchor="middle" class="label" transform="rotate(55 448.1 408)">12</text>
+<rect x="463.2" y="369.5" width="28.2" height="20.5" fill="#277da1"><title>cuboid_013: 0.214%</title></rect>
+<rect x="493.3" y="273.8" width="28.2" height="116.2" fill="#277da1"><title>cuboid_014: 1.214%</title></rect>
+<text x="508.4" y="408" text-anchor="middle" class="label" transform="rotate(55 508.4 408)">14</text>
+<rect x="523.5" y="245.4" width="28.2" height="144.6" fill="#277da1"><title>cuboid_015: 1.510%</title></rect>
+<rect x="553.7" y="121.8" width="28.2" height="268.2" fill="#d95d39"><title>cuboid_016: 2.802%</title></rect>
+<text x="568.8" y="408" text-anchor="middle" class="label" transform="rotate(55 568.8 408)">16</text>
+<rect x="583.8" y="336.5" width="28.2" height="53.5" fill="#277da1"><title>cuboid_017: 0.559%</title></rect>
+<rect x="614.0" y="272.8" width="28.2" height="117.2" fill="#277da1"><title>cuboid_018: 1.225%</title></rect>
+<text x="629.1" y="408" text-anchor="middle" class="label" transform="rotate(55 629.1 408)">18</text>
+<rect x="644.2" y="383.4" width="28.2" height="6.6" fill="#277da1"><title>cuboid_019: 0.069%</title></rect>
+<rect x="674.3" y="350.2" width="28.2" height="39.8" fill="#277da1"><title>cuboid_020: 0.416%</title></rect>
+<text x="689.4" y="408" text-anchor="middle" class="label" transform="rotate(55 689.4 408)">20</text>
+<rect x="704.5" y="387.7" width="28.2" height="2.3" fill="#277da1"><title>cuboid_021: 0.024%</title></rect>
+<rect x="734.7" y="381.6" width="28.2" height="8.4" fill="#277da1"><title>cuboid_022: 0.088%</title></rect>
+<text x="749.8" y="408" text-anchor="middle" class="label" transform="rotate(55 749.8 408)">22</text>
+<rect x="764.8" y="276.2" width="28.2" height="113.8" fill="#277da1"><title>cuboid_023: 1.189%</title></rect>
+<rect x="795.0" y="350.6" width="28.2" height="39.4" fill="#277da1"><title>cuboid_024: 0.412%</title></rect>
+<text x="810.1" y="408" text-anchor="middle" class="label" transform="rotate(55 810.1 408)">24</text>
+<rect x="825.2" y="306.9" width="28.2" height="83.1" fill="#277da1"><title>cuboid_025: 0.868%</title></rect>
+<rect x="855.3" y="274.7" width="28.2" height="115.3" fill="#277da1"><title>cuboid_026: 1.204%</title></rect>
+<text x="870.4" y="408" text-anchor="middle" class="label" transform="rotate(55 870.4 408)">26</text>
+<rect x="885.5" y="315.3" width="28.2" height="74.7" fill="#277da1"><title>cuboid_027: 0.780%</title></rect>
+<rect x="915.7" y="225.9" width="28.2" height="164.1" fill="#277da1"><title>cuboid_028: 1.714%</title></rect>
+<text x="930.8" y="408" text-anchor="middle" class="label" transform="rotate(55 930.8 408)">28</text>
+<rect x="945.8" y="298.1" width="28.2" height="91.9" fill="#277da1"><title>cuboid_029: 0.961%</title></rect>
+<line x1="70" y1="294.7" x2="975" y2="294.7" stroke="#f9a826" stroke-width="3" stroke-dasharray="7 5"/>
+<text x="971" y="287.7" text-anchor="end" class="value">平均 0.995%</text>
+<text x="500" y="450" text-anchor="middle" class="label">样本编号（蓝色 ≤2%，橙色 >2%）</text>
+</svg>
