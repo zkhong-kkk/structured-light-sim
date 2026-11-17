@@ -20,7 +20,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_b15a261e1549479fafce3d9aa7314ecf
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -37,7 +37,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_2e9db61813de40d3a3a619e167d440be
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -54,7 +54,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_2cd1c0b78d80476cb9f413b7975389a4
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -71,7 +71,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_185fbfaaa3bf4f1da9b20ce1686a6263
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -88,7 +88,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_d783e42c2e904216ba68b2de4afabf77
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -105,7 +105,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_e5331651527e482f899a36bc1d923be4
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -122,7 +122,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_29902887139e4b2e91661c03215686c4
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -139,7 +139,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_e321f39e69154d808cca82367d64e6ca
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -156,7 +156,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_db7b4be42b9247e783ef68c9b462013f
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -173,7 +173,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_1c6b5e24883d4070ab9fea3ffa3caf95
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -190,7 +190,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_db8770407a8f4154a52ef59284b1f680
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -207,7 +207,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_54ee1a91e6234de4a70d2b6663dc7004
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -224,7 +224,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_77d61e3eb60f4f39abcc9c365a9f696a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -241,7 +241,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_0da0374239f640f5b5975969396c3751
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -258,7 +258,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_0061437014f44ff4bc5f831884af0a45
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -275,7 +275,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_1143edcb741447f7b3309922d315790f
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -292,7 +292,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_a90451eb73654baa9971b50f09969610
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -309,7 +309,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_d7059268165a40ca810bbfe001db3a82
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -326,7 +326,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_b0f5a3d1bf214e0c9119493a94181a8a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -343,7 +343,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_4a4f134a21384c879ebf365cf32efa05
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -360,7 +360,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_e695ac86ec154c8d891c24b3daa6ff8e
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -377,7 +377,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_fb188e7377244954903d4238a3141d3a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -394,7 +394,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_46d51faf99934e8bae7989142a6cd6a6
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -411,7 +411,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_fd8f6284a63340c59cfe7451b0c099d3
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -428,7 +428,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_9b44038e64934c11ba2117e1676f3a4a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -445,7 +445,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_24cefcbafff0438aa15afaa283832a8f
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -462,7 +462,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_38d76d3b1e8940869a120326a0d0c453
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -479,7 +479,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_a01022b2f6fb4c618f38db928631328f
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -496,7 +496,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_24924dfdd8624f33b96cad441a3de371
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -513,7 +513,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_0d612191cd2243c9a86bbf6774ed0490
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -530,7 +530,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_30d9f1f04cf049c7b1641529b6f6ab78
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -547,7 +547,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_de9aebc6207c441bacd841f4cea3e707
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -564,7 +564,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_6a8f61ff07774de4acb7a0d24a65b08d
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -581,7 +581,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_26730f578acd40b78c5d975af2bf34be
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -598,7 +598,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_ef2b4a013a5342a686ec655fcebb4835
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -615,7 +615,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_1308a592aa444a449b68d83089151f60
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -632,7 +632,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_effce0e698d245fdaa1719262b846f19
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -649,7 +649,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_eeb0ff13bfcf4a1b9d4dbb8897131800
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -666,7 +666,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_e24062169e9e476cab71b1134fc34cf9
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -683,7 +683,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_8e1850c3f1154ffd8f115691229c76db
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -700,7 +700,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_ec28632bfd5f4a4aaad9dfcaa998411e
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -717,7 +717,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_302b0042dca54f68be37c50e53415326
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -734,7 +734,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_0e297fa1984d480b83aa5b3b83d693fe
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -751,7 +751,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_20d2fc5fedcb4267ba40155b3ad10b52
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -768,7 +768,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_578be8e519dc43fa9aceb3be49645736
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -785,7 +785,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_98f02dbe5ff14663aa22dffcb64a192e
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -802,7 +802,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_1bc3171ba52e460a819f2b98ffeafc47
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -819,7 +819,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_4b77c86e2bc6482da9d92ca8f9496b1a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -836,7 +836,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_f630b9437331467aba2cc1f8ae1f024d
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -853,7 +853,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_38463af30f034df183234a42941c9810
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -870,7 +870,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_5488662aa8c54bf28e87768c887ca084
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -887,7 +887,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_f85ce20b030c45f4b921a3a127bfa1c3
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -904,7 +904,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_9d89532aaf454dc2af24c139e1e5a19e
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -921,7 +921,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_8da5198438174b8aa20772a974eb25a7
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -938,7 +938,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_53bb64a388344b2c93df5b8c0fccc0eb
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -955,7 +955,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_2af4c38296354fd79b2ae845378497ce
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -972,7 +972,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_ca4ffe23efd64436bc103fca3436e639
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -989,7 +989,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_aa87497c803d49218a511a54b67a8149
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1006,7 +1006,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_65d1d0b134244ababa9efa0c446ba482
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1023,7 +1023,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_3c4cd896c0754dc682d7440a7166fef3
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1040,7 +1040,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_1cb8b73a14a84eacbd53ee86ec1db559
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1057,7 +1057,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_0113259e576747c4b12830a950b82af5
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1074,7 +1074,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_f4935067ca244ffd97c59d4fd734809f
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1091,7 +1091,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_32db1481ce5d417688d24fd91c9cd6d5
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1108,7 +1108,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_31857ddc7e72426db35cdaf4d1278919
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1125,7 +1125,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_ae0bbb2ffd2b40e4a32b2790d261ef7d
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1142,7 +1142,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_deb143a37d4d415ebfec3740838e182a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1159,7 +1159,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_9c48e41906504e838087efd7e2827ac5
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1176,7 +1176,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_06b607ace87f44a19d46b1a1c254b81b
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1193,7 +1193,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_8cd9535c2da440dca39ceda7da833ed7
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1210,7 +1210,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_b1f2a73dbd10424ea9307c271cd50d16
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1227,7 +1227,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_c8c9cc4465824ac7813d7ee0ef3059f1
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1244,7 +1244,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_a445f8208945495d9cae9c418e81e799
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1261,7 +1261,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_c9105206394542f2bc9daed35d15c79a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1278,7 +1278,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_6dd28d6201d547a6821a8e46e4e8e204
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1295,7 +1295,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_ac07e497efc441cf9e1527e881888afb
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1312,7 +1312,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_3593df824a464a8c921c9816e9aca566
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1329,7 +1329,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_5a85e028e60e4be388dc4553c0970d27
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1346,7 +1346,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_5f31fd6f4b20430bbe3e90ab20deef70
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1363,7 +1363,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_33c67de10371434fa6004552cd561537
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1380,7 +1380,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_65f3ad3e9ce34e0e8bd68eaea49161c0
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1397,7 +1397,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_71b5c18c02dc453096630fcdb8158755
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1414,7 +1414,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_b58706f3511b40cbb80edd78cc13cd2f
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1431,7 +1431,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_1febc83dddba4eba8ab8bc9d18ec381d
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1448,7 +1448,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_0b49be7aafe54a41b3606107f40d9525
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1465,7 +1465,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_ae6a03db4f6249c3963eb5638c3da266
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1482,7 +1482,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_c0869e08309848cda636cf7e6dfaaa87
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1499,7 +1499,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_a7561e50dd2c43999dad82d0ccfe3e1b
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1516,7 +1516,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_272aeadee91a40e5b79ddf4e2d791273
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1533,7 +1533,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_98a17f48baf04eb9aa5d119c78e9726d
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1550,7 +1550,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_5c83aa20262041f5857620e9a79fc96b
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1567,7 +1567,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_f07bc8a9e22b41ba928d19afbf78fd6a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1584,7 +1584,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_17f2a8ba95c34419a023d6b8740ba698
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1601,7 +1601,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_5e34b18daca74a6599dd0fe678c5a4e4
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1618,7 +1618,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_b3878ebc7d864b468b1b672e3240ddfb
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1635,7 +1635,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_08d718e78e6749b0ab0d69e2c06f70e8
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1652,7 +1652,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_c05a20f390a84c7d9b5a723d4485e12b
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1669,7 +1669,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_da2abf97177f45c7a3b18af97e12cd69
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1686,7 +1686,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_2f50ee20ee5c455cb07caaaaf0ef0128
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1703,7 +1703,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_8e4f662f42b54b0180d0d323de6088c3
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1720,7 +1720,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_89088b86db274721aa8601e22d197b19
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1737,7 +1737,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_0a2a6ea0797d47798850853fb4c3e351
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1754,7 +1754,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_cf0616d678d34cd1b998b845148c3c04
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1771,7 +1771,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_d3e9795cceca4e3bb04cc56268b6ac72
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1788,7 +1788,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_8bae60b648454190baabd006f8ba61a7
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1805,7 +1805,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_baa5592cf9a54799944f3dcbcec37e95
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1822,7 +1822,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_da33b4b35637473c84f46741be3b1976
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1839,7 +1839,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_8258eb7949a84ce8b4aa4e2ac9302378
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1856,7 +1856,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_9153993d35b241df8e3ffada07f40344
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1873,7 +1873,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_65a156e3747b4a4d8acd0da41fcf7739
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1890,7 +1890,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_2f68906b383c4f12b24facf532ed3b58
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1907,7 +1907,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_86d0b11583764c36a7a5793fd17082db
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1924,7 +1924,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_591a9e869fe04bb5aa5a24a3c6fbf436
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1941,7 +1941,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_6208e947b5d54b8aab42c35671c09a62
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1958,7 +1958,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_45bb1c58ffe748cda119eee2a17fda7e
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1975,7 +1975,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_2db7533e012049c48bbb17a7fa0ce2f2
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -1992,7 +1992,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_07eadd7bad7640c5ab042f11132da72a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2009,7 +2009,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_c4b45a6706a740d783c71a918e5dcfe6
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2026,7 +2026,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_ffd696a7cd8d4eba937e5f307c367e82
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2043,7 +2043,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_ea0f2c2cc2eb4412a541791dbecde05e
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2060,7 +2060,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_dbc41a3899c64287bad758794ccac02c
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2077,7 +2077,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_0b0a0bea1be143b6b2841ad7f308d70a
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2094,7 +2094,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_3e5034fe4cfb4954af3030aa57761a42
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2111,7 +2111,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_197f40d4193b46f5960763ad56aca5d0
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2128,7 +2128,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_68cb058b2c944f7bb8de31c4e400c555
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2145,7 +2145,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_e613a5cae7654771a9d5140eea674bab
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2162,7 +2162,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_15755462653f4e05bd11e5b4c91e745c
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2179,7 +2179,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_1cf8cb02945344df8c43385f77e619af
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2196,7 +2196,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_3d243032ff604fd493372a060caa5638
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2213,7 +2213,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_8171e70d02424a5a8e9bb9a0c64911d5
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2230,7 +2230,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_12f40beb77c540e2b888f05cbb1d16d8
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2247,7 +2247,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_23f89b30b82342be9e40f11c270434bc
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2264,7 +2264,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_45e6eb27424f47e1882b229057e68b12
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2281,7 +2281,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_29bff7523da2415b818ef848be185838
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2298,7 +2298,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_cd897ee5a3ab4c2c9deb66b65671456e
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2315,7 +2315,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_6e2b85010485466fbed665572677dddd
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2332,7 +2332,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_40a5d6d60cf0452ba81379a5dc4d9be8
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2349,7 +2349,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_ed85ed235d0b44dda82db48d98c83a4f
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2366,7 +2366,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_fd225867eeed4cf088878a5ea1721c8f
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2383,7 +2383,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_a0ccc681e4df410f9925a5230cabed6b
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2400,7 +2400,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_f583ee1726314915888b520cf47c3169
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2417,7 +2417,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_bb07b31d29cd45a890b9e455775d9a98
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2434,7 +2434,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_5c852dc2758d459cabf0d23543bff73f
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 Selecting render devices...
@@ -2451,7 +2451,7 @@ Saved projector test to: ${PROJECT_ROOT}/outputs/multiview_exr_horizontal_hole_c
 
 Blender quit
 Using temporary directory: /dev/shm/blender_proc_2e744a0bb1714501a569cff6a11ca818
-Warning: Changed install path from ${LEGACY_HOME}... to ${USER_HOME}/home_local/ on this machine.
+Warning: Changed install path from ${LEGACY_HOME} to ${USER_HOME}, there is no /home_local/ on this machine.
 Using blender in ${USER_HOME}/blender/blender-4.2.1-linux-x64
 Cleaning temporary directory
 [1/144] view=0, frequency=1, phase=0

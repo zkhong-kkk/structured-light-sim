@@ -14,6 +14,13 @@
 | `tsdf_dual.log` | 双相机 TSDF | 每个相机/角度的积分过程 |
 | `tsdf_fillfix.log` | TSDF 填充修正验证 | 小孔填充后的输出规模 |
 | `upper_lower_roi.log` | 上下双路物理 ROI 重建 | ROI 后网格尺度恢复 |
+| `fourcam_reconstruction.log` | 水平孔四相机完整重建 | 48 个支路视角、四相机 TSDF 与直接 Poisson |
+| `fourcam_poisson_tight.log` | 水平孔四相机收紧 Poisson | 单孔闭环与收紧 ROI 网格规模 |
+| `complex_fourcam_reconstruction.log` | 双方孔凹槽四相机重建 | 576 帧之后的 48 视角重建与网格结果 |
+| `complex_poisson_tight.log` | 双方孔收紧 Poisson | 重复孔环消融结果 |
+| `complex_poisson_balanced.log` | 双方孔平衡参数 Poisson | 参数平衡后仍存在重复孔环的证据 |
+| `curved_fourcam_reconstruction.log` | 阶梯圆柱双深孔 | 原四相机布局的体积和拓扑失败 |
+| `curved_steep_reconstruction.log` | 陡俯视上方相机消融 | 孔区相移有效但最终仅恢复 1/2 个孔 |
 
 ## 指标证据
 
@@ -25,6 +32,10 @@
 | `artifacts/results/upper_lower_metrics.txt` | 上下互补 TSDF 的原始服务器指标 |
 | `artifacts/results/poisson_tight_metrics.txt` | 最终 Poisson 网格的原始服务器指标 |
 | `artifacts/results/dual_tsdf_sweep.csv` | 同侧双相机参数扫描摘要 |
+| `artifacts/results/four_camera_experiments.csv` | 四相机四个复杂场景的原始/校正体积、孔数和结论 |
+| `artifacts/results/four_camera_summary.json` | 576 帧协议、孔尺寸和深孔失败边界的结构化摘要 |
+| `artifacts/results/fourcam_*_metrics.txt` | 四相机 TSDF/Poisson 服务器原始指标 |
+| `artifacts/results/fourcam_*_status.txt` | 576 帧渲染和 48 视角重建完成状态 |
 
 ## 可审计原则
 

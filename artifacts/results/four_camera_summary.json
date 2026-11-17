@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-17",
+  "capture_protocol": {
+    "camera_count": 4,
+    "turntable_views": 12,
+    "frequencies": [
+      1,
+      4,
+      12
+    ],
+    "phase_degrees": [
+      0,
+      90,
+      180,
+      270
+    ],
+    "frames_per_object": 576
+  },
+  "experiments": [
+    {
+      "case_id": "horizontal_hole",
+      "display_name": "水平单方孔",
+      "truth_volume_cm3": 1008.0,
+      "raw_volume_cm3": 968.4254428003654,
+      "raw_error_percent": 3.9260473412335886,
+      "corrected_volume_cm3": 1015.3763691176924,
+      "corrected_error_percent": 0.7317826505647256,
+      "boundary_edges": 1376,
+      "expected_holes": 1,
+      "recovered_holes": 1,
+      "hole_measurements_mm": "40.326x40.506",
+      "topology_status": "pass",
+      "notes": "Tight Poisson; mean dimension error 1.04%"
+    },
+    {
+      "case_id": "double_hole_notch",
+      "display_name": "双方孔顶部凹槽",
+      "truth_volume_cm3": 1124.5,
+      "raw_volume_cm3": 1081.8799343455532,
+      "raw_error_percent": 3.7901347847440423,
+      "corrected_volume_cm3": 1141.1600863903216,
+      "corrected_error_percent": 1.4815550369338877,
+      "boundary_edges": 4862,
+      "expected_holes": 2,
+      "recovered_holes": 2,
+      "hole_measurements_mm": "25.898x33.653;22.719x33.843",
+      "topology_status": "pass_with_bias",
+      "notes": "Direct Poisson; mean dimension error 4.97%"
+    },
+    {
+      "case_id": "stepped_cylinder_original",
+      "display_name": "阶梯圆柱双深孔（原布局）",
+      "truth_volume_cm3": 858.1271496927825,
+      "raw_volume_cm3": 930.8886472448966,
+      "raw_error_percent": 8.479104475154218,
+      "corrected_volume_cm3": 963.8799616548882,
+      "corrected_error_percent": 12.323676275708818,
+      "boundary_edges": 732,
+      "expected_holes": 2,
+      "recovered_holes": 0,
+      "hole_measurements_mm": "",
+      "topology_status": "fail",
+      "notes": "TSDF and Poisson both filled the vertical bores"
+    },
+    {
+      "case_id": "stepped_cylinder_steep",
+      "display_name": "阶梯圆柱双深孔（陡俯视）",
+      "truth_volume_cm3": 858.1271496927825,
+      "raw_volume_cm3": 920.6197864124955,
+      "raw_error_percent": 7.282444885013363,
+      "corrected_volume_cm3": 953.2301272221765,
+      "corrected_error_percent": 11.082620747221641,
+      "boundary_edges": 1894,
+      "expected_holes": 2,
+      "recovered_holes": 1,
+      "hole_measurements_mm": "18.712x16.369",
+      "topology_status": "fail",
+      "notes": "Only one undersized candidate; expected diameter 24 mm"
+    }
+  ],
+  "interpretation": "Four-camera dual-branch reconstruction succeeds on horizontal and paired through-holes, but does not reliably preserve high-aspect-ratio vertical bores. Surface-offset correction is not trusted when topology is already wrong."
+}

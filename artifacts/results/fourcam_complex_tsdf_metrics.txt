@@ -1,0 +1,13 @@
+rig_count: 4
+upper_left_frames: 12
+upper_right_frames: 12
+lower_left_frames: 12
+lower_right_frames: 12
+total_frames: 48
+vertex_count: 97627
+face_count: 187771
+body_count: 270
+watertight: False
+extent_m: [0.17466655444275891, 0.12970497069645082, 0.11011100047254675]
+volume_m3: nan
+volume_cm3: nan

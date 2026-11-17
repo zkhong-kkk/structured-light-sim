@@ -169,10 +169,91 @@ def method_chart() -> None:
     )
 
 
+def four_camera_chart() -> None:
+    with (RESULT_DIR / "four_camera_experiments.csv").open(
+        encoding="utf-8", newline=""
+    ) as handle:
+        rows = list(csv.DictReader(handle))
+
+    width, height = 1040, 520
+    left, top, right, bottom = 80, 65, 35, 130
+    plot_width = width - left - right
+    plot_height = height - top - bottom
+    maximum = 14.0
+    group_width = plot_width / len(rows)
+    bar_width = 58
+    parts = [
+        '<text x="520" y="32" text-anchor="middle" class="title">'
+        '四相机复杂测试件：体积误差与孔洞恢复</text>'
+    ]
+
+    for tick in [0, 2, 4, 6, 8, 10, 12, 14]:
+        y = top + plot_height * (1 - tick / maximum)
+        parts.append(
+            f'<line x1="{left}" y1="{y:.1f}" x2="{width-right}" '
+            f'y2="{y:.1f}" class="grid"/>'
+        )
+        parts.append(
+            f'<text x="{left-10}" y="{y+4:.1f}" '
+            f'text-anchor="end" class="label">{tick}%</text>'
+        )
+
+    for index, row in enumerate(rows):
+        center = left + group_width * (index + 0.5)
+        raw = float(row["raw_error_percent"])
+        corrected = float(row["corrected_error_percent"])
+        expected = int(row["expected_holes"])
+        recovered = int(row["recovered_holes"])
+        for offset, value, color, name in [
+            (-bar_width, raw, "#577590", "raw"),
+            (0, corrected, "#f4a261", "corrected"),
+        ]:
+            x = center + offset
+            bar_height = plot_height * value / maximum
+            y = top + plot_height - bar_height
+            parts.append(
+                f'<rect x="{x:.1f}" y="{y:.1f}" width="{bar_width-5}" '
+                f'height="{bar_height:.1f}" rx="4" fill="{color}">'
+                f'<title>{name}: {value:.3f}%</title></rect>'
+            )
+            parts.append(
+                f'<text x="{x+(bar_width-5)/2:.1f}" y="{y-7:.1f}" '
+                f'text-anchor="middle" class="value">{value:.2f}%</text>'
+            )
+
+        label = row["display_name"]
+        parts.append(
+            f'<text x="{center:.1f}" y="{height-bottom+27}" '
+            f'text-anchor="middle" class="label">{escape(label)}</text>'
+        )
+        status_color = "#2a9d8f" if recovered == expected else "#d95d39"
+        parts.append(
+            f'<text x="{center:.1f}" y="{height-bottom+50}" '
+            f'text-anchor="middle" class="value" fill="{status_color}" '
+            f'style="fill:{status_color}">孔洞 {recovered}/{expected}</text>'
+        )
+
+    parts.extend(
+        [
+            '<rect x="325" y="476" width="18" height="12" fill="#577590"/>',
+            '<text x="350" y="487" class="label">原始 TSDF 误差</text>',
+            '<rect x="515" y="476" width="18" height="12" fill="#f4a261"/>',
+            '<text x="540" y="487" class="label">表面积偏差校正后误差</text>',
+            '<text x="520" y="510" text-anchor="middle" class="label">'
+            '深竖孔拓扑失败时，校正值不作为可信体积结论</text>',
+        ]
+    )
+    (ASSET_DIR / "four_camera_object_results.svg").write_text(
+        svg_document(width, height, "\n".join(parts)),
+        encoding="utf-8",
+    )
+
+
 def main() -> None:
     ASSET_DIR.mkdir(parents=True, exist_ok=True)
     cuboid_chart()
     method_chart()
+    four_camera_chart()
     print("report assets generated:", ASSET_DIR)
 
 

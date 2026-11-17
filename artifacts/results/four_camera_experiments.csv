@@ -1,0 +1,5 @@
+case_id,display_name,truth_volume_cm3,raw_volume_cm3,raw_error_percent,corrected_volume_cm3,corrected_error_percent,boundary_edges,expected_holes,recovered_holes,hole_measurements_mm,topology_status,notes
+horizontal_hole,水平单方孔,1008.0,968.4254428003654,3.9260473412335886,1015.3763691176924,0.7317826505647256,1376,1,1,40.326x40.506,pass,Tight Poisson; mean dimension error 1.04%
+double_hole_notch,双方孔顶部凹槽,1124.5,1081.8799343455532,3.7901347847440423,1141.1600863903216,1.4815550369338877,4862,2,2,25.898x33.653;22.719x33.843,pass_with_bias,Direct Poisson; mean dimension error 4.97%
+stepped_cylinder_original,阶梯圆柱双深孔（原布局）,858.1271496927825,930.8886472448966,8.479104475154218,963.8799616548882,12.323676275708818,732,2,0,,fail,TSDF and Poisson both filled the vertical bores
+stepped_cylinder_steep,阶梯圆柱双深孔（陡俯视）,858.1271496927825,920.6197864124955,7.282444885013363,953.2301272221765,11.082620747221641,1894,2,1,18.712x16.369,fail,Only one undersized candidate; expected diameter 24 mm

@@ -1,0 +1,995 @@
+============================================================
+Stage 0: input validation
+============================================================
+upper_left captures: 144 / 144
+upper_right captures: 144 / 144
+lower_left captures: 144 / 144
+lower_right captures: 144 / 144
+============================================================
+Stage 1: reconstruct four camera point clouds
+============================================================
+upper_left existing reconstructions: 0 / 12
+------------------------------------------------------------
+Reconstructing camera: upper_left
+------------------------------------------------------------
+frequency 1: valid_ratio=0.750195, ratio_median=1.315360
+frequency 4: valid_ratio=0.748223, ratio_median=1.292899
+frequency 12: valid_ratio=0.747604, ratio_median=1.288051
+base valid ratio: 0.661181640625
+final valid ratio: 0.6575
+projector u range: 0.0 639.79297
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_000/phase
+point_count: 43695
+rmse_m: 0.03598835
+median_error_m: 0.00014496
+p95_error_m: 0.00056179
+max_error_m: 0.89574303
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_000/reconstruction
+frequency 1: valid_ratio=0.769753, ratio_median=1.312416
+frequency 4: valid_ratio=0.768698, ratio_median=1.283795
+frequency 12: valid_ratio=0.768844, ratio_median=1.276228
+base valid ratio: 0.6978580729166667
+final valid ratio: 0.6894759114583333
+projector u range: 0.0 639.8788
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_030/phase
+point_count: 49637
+rmse_m: 0.03202461
+median_error_m: 0.00016004
+p95_error_m: 0.00081369
+max_error_m: 0.82086063
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_030/reconstruction
+frequency 1: valid_ratio=0.787178, ratio_median=1.317947
+frequency 4: valid_ratio=0.785622, ratio_median=1.293464
+frequency 12: valid_ratio=0.785065, ratio_median=1.286201
+base valid ratio: 0.6997265625
+final valid ratio: 0.6864583333333333
+projector u range: 0.0 639.8696
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_060/phase
+point_count: 40286
+rmse_m: 0.06688235
+median_error_m: 0.00015476
+p95_error_m: 0.00165235
+max_error_m: 0.91341929
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_060/reconstruction
+frequency 1: valid_ratio=0.743073, ratio_median=1.321355
+frequency 4: valid_ratio=0.740931, ratio_median=1.304099
+frequency 12: valid_ratio=0.738542, ratio_median=1.299487
+base valid ratio: 0.6264453125
+final valid ratio: 0.624423828125
+projector u range: 0.0 639.85425
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_090/phase
+point_count: 31582
+rmse_m: 0.03898546
+median_error_m: 0.00014231
+p95_error_m: 0.00077354
+max_error_m: 0.88622536
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_090/reconstruction
+frequency 1: valid_ratio=0.760846, ratio_median=1.312779
+frequency 4: valid_ratio=0.759899, ratio_median=1.286003
+frequency 12: valid_ratio=0.759974, ratio_median=1.278107
+base valid ratio: 0.6934993489583333
+final valid ratio: 0.6883626302083333
+projector u range: 0.0 639.81506
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_120/phase
+point_count: 51359
+rmse_m: 0.03013843
+median_error_m: 0.00015496
+p95_error_m: 0.00069040
+max_error_m: 0.79547990
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_120/reconstruction
+frequency 1: valid_ratio=0.777253, ratio_median=1.314221
+frequency 4: valid_ratio=0.776104, ratio_median=1.289496
+frequency 12: valid_ratio=0.775658, ratio_median=1.282665
+base valid ratio: 0.7012760416666667
+final valid ratio: 0.6923470052083334
+projector u range: 0.0 639.9442
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_150/phase
+point_count: 48166
+rmse_m: 0.05047415
+median_error_m: 0.00014182
+p95_error_m: 0.00041815
+max_error_m: 0.85236954
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_150/reconstruction
+frequency 1: valid_ratio=0.750195, ratio_median=1.315360
+frequency 4: valid_ratio=0.748223, ratio_median=1.292899
+frequency 12: valid_ratio=0.747604, ratio_median=1.288051
+base valid ratio: 0.6611783854166666
+final valid ratio: 0.6575
+projector u range: 0.0 639.79297
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_180/phase
+point_count: 43696
+rmse_m: 0.03598794
+median_error_m: 0.00014496
+p95_error_m: 0.00056198
+max_error_m: 0.89574303
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_180/reconstruction
+frequency 1: valid_ratio=0.769753, ratio_median=1.312416
+frequency 4: valid_ratio=0.768698, ratio_median=1.283795
+frequency 12: valid_ratio=0.768844, ratio_median=1.276228
+base valid ratio: 0.6978580729166667
+final valid ratio: 0.6894759114583333
+projector u range: 0.0 639.8788
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_210/phase
+point_count: 49637
+rmse_m: 0.03202461
+median_error_m: 0.00016006
+p95_error_m: 0.00081369
+max_error_m: 0.82086063
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_210/reconstruction
+frequency 1: valid_ratio=0.787178, ratio_median=1.317947
+frequency 4: valid_ratio=0.785622, ratio_median=1.293464
+frequency 12: valid_ratio=0.785065, ratio_median=1.286201
+base valid ratio: 0.6997265625
+final valid ratio: 0.6864583333333333
+projector u range: 0.0 639.8696
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_240/phase
+point_count: 40286
+rmse_m: 0.06688235
+median_error_m: 0.00015476
+p95_error_m: 0.00165235
+max_error_m: 0.91341929
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_240/reconstruction
+frequency 1: valid_ratio=0.743073, ratio_median=1.321354
+frequency 4: valid_ratio=0.740931, ratio_median=1.304098
+frequency 12: valid_ratio=0.738542, ratio_median=1.299487
+base valid ratio: 0.6264453125
+final valid ratio: 0.624423828125
+projector u range: 0.0 639.85425
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_270/phase
+point_count: 31582
+rmse_m: 0.03898543
+median_error_m: 0.00014232
+p95_error_m: 0.00077354
+max_error_m: 0.88622536
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_270/reconstruction
+frequency 1: valid_ratio=0.760846, ratio_median=1.312780
+frequency 4: valid_ratio=0.759899, ratio_median=1.286003
+frequency 12: valid_ratio=0.759974, ratio_median=1.278107
+base valid ratio: 0.6934993489583333
+final valid ratio: 0.6883626302083333
+projector u range: 0.0 639.81506
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_300/phase
+point_count: 51359
+rmse_m: 0.03013843
+median_error_m: 0.00015496
+p95_error_m: 0.00069040
+max_error_m: 0.79547990
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_300/reconstruction
+frequency 1: valid_ratio=0.777253, ratio_median=1.314221
+frequency 4: valid_ratio=0.776104, ratio_median=1.289498
+frequency 12: valid_ratio=0.775658, ratio_median=1.282665
+base valid ratio: 0.7012760416666667
+final valid ratio: 0.6923470052083334
+projector u range: 0.0 639.9442
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_330/phase
+point_count: 48166
+rmse_m: 0.05047415
+median_error_m: 0.00014184
+p95_error_m: 0.00041809
+max_error_m: 0.85236954
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_left/view_330/reconstruction
+
+[1/12] view=0
+
+[2/12] view=30
+
+[3/12] view=60
+
+[4/12] view=90
+
+[5/12] view=120
+
+[6/12] view=150
+
+[7/12] view=180
+
+[8/12] view=210
+
+[9/12] view=240
+
+[10/12] view=270
+
+[11/12] view=300
+
+[12/12] view=330
+
+All 16-bit views reconstructed.
+upper_left reconstruction complete: 12 / 12
+upper_right existing reconstructions: 0 / 12
+------------------------------------------------------------
+Reconstructing camera: upper_right
+------------------------------------------------------------
+frequency 1: valid_ratio=0.749782, ratio_median=1.315282
+frequency 4: valid_ratio=0.747907, ratio_median=1.292723
+frequency 12: valid_ratio=0.747168, ratio_median=1.287974
+base valid ratio: 0.6609830729166667
+final valid ratio: 0.657421875
+projector u range: 0.0 639.99854
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_000/phase
+point_count: 43720
+rmse_m: 0.03523320
+median_error_m: 0.00014523
+p95_error_m: 0.00055575
+max_error_m: 0.92650612
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_000/reconstruction
+frequency 1: valid_ratio=0.777113, ratio_median=1.314278
+frequency 4: valid_ratio=0.775911, ratio_median=1.289425
+frequency 12: valid_ratio=0.775573, ratio_median=1.282688
+base valid ratio: 0.7013671875
+final valid ratio: 0.6923274739583334
+projector u range: 0.0 639.745
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_030/phase
+point_count: 48180
+rmse_m: 0.05020659
+median_error_m: 0.00014167
+p95_error_m: 0.00042155
+max_error_m: 0.84874085
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_030/reconstruction
+frequency 1: valid_ratio=0.760579, ratio_median=1.312690
+frequency 4: valid_ratio=0.759580, ratio_median=1.286174
+frequency 12: valid_ratio=0.759912, ratio_median=1.277990
+base valid ratio: 0.6935221354166666
+final valid ratio: 0.6884016927083333
+projector u range: 0.0 639.9575
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_060/phase
+point_count: 51333
+rmse_m: 0.03222720
+median_error_m: 0.00015380
+p95_error_m: 0.00069479
+max_error_m: 0.90002095
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_060/reconstruction
+frequency 1: valid_ratio=0.742741, ratio_median=1.321335
+frequency 4: valid_ratio=0.740700, ratio_median=1.304099
+frequency 12: valid_ratio=0.737751, ratio_median=1.299686
+base valid ratio: 0.626279296875
+final valid ratio: 0.6244986979166667
+projector u range: 0.0 639.91785
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_090/phase
+point_count: 31626
+rmse_m: 0.04092565
+median_error_m: 0.00014316
+p95_error_m: 0.00081955
+max_error_m: 0.91817923
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_090/reconstruction
+frequency 1: valid_ratio=0.786999, ratio_median=1.317948
+frequency 4: valid_ratio=0.785345, ratio_median=1.293446
+frequency 12: valid_ratio=0.784919, ratio_median=1.286324
+base valid ratio: 0.69962890625
+final valid ratio: 0.6861588541666667
+projector u range: 0.0 639.9279
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_120/phase
+point_count: 40298
+rmse_m: 0.06638642
+median_error_m: 0.00015400
+p95_error_m: 0.00165456
+max_error_m: 0.85174325
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_120/reconstruction
+frequency 1: valid_ratio=0.769899, ratio_median=1.312291
+frequency 4: valid_ratio=0.768721, ratio_median=1.283622
+frequency 12: valid_ratio=0.768955, ratio_median=1.276307
+base valid ratio: 0.6983821614583333
+final valid ratio: 0.6898665364583333
+projector u range: 0.0 639.8114
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_150/phase
+point_count: 49660
+rmse_m: 0.03388603
+median_error_m: 0.00016209
+p95_error_m: 0.00081967
+max_error_m: 0.90299166
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_150/reconstruction
+frequency 1: valid_ratio=0.749782, ratio_median=1.315282
+frequency 4: valid_ratio=0.747907, ratio_median=1.292723
+frequency 12: valid_ratio=0.747168, ratio_median=1.287974
+base valid ratio: 0.6609830729166667
+final valid ratio: 0.657421875
+projector u range: 0.0 639.99854
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_180/phase
+point_count: 43720
+rmse_m: 0.03523320
+median_error_m: 0.00014524
+p95_error_m: 0.00055575
+max_error_m: 0.92650612
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_180/reconstruction
+frequency 1: valid_ratio=0.777113, ratio_median=1.314278
+frequency 4: valid_ratio=0.775911, ratio_median=1.289425
+frequency 12: valid_ratio=0.775573, ratio_median=1.282688
+base valid ratio: 0.7013704427083334
+final valid ratio: 0.6923307291666667
+projector u range: 0.0 639.745
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_210/phase
+point_count: 48180
+rmse_m: 0.05020659
+median_error_m: 0.00014168
+p95_error_m: 0.00042155
+max_error_m: 0.84874085
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_210/reconstruction
+frequency 1: valid_ratio=0.760579, ratio_median=1.312690
+frequency 4: valid_ratio=0.759580, ratio_median=1.286174
+frequency 12: valid_ratio=0.759912, ratio_median=1.277988
+base valid ratio: 0.6935221354166666
+final valid ratio: 0.6884016927083333
+projector u range: 0.0 639.9575
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_240/phase
+point_count: 51333
+rmse_m: 0.03222720
+median_error_m: 0.00015380
+p95_error_m: 0.00069475
+max_error_m: 0.90002095
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_240/reconstruction
+frequency 1: valid_ratio=0.742741, ratio_median=1.321335
+frequency 4: valid_ratio=0.740700, ratio_median=1.304099
+frequency 12: valid_ratio=0.737751, ratio_median=1.299685
+base valid ratio: 0.626279296875
+final valid ratio: 0.6244986979166667
+projector u range: 0.0 639.91785
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_270/phase
+point_count: 31626
+rmse_m: 0.04092565
+median_error_m: 0.00014316
+p95_error_m: 0.00081955
+max_error_m: 0.91817923
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_270/reconstruction
+frequency 1: valid_ratio=0.786999, ratio_median=1.317949
+frequency 4: valid_ratio=0.785345, ratio_median=1.293446
+frequency 12: valid_ratio=0.784919, ratio_median=1.286323
+base valid ratio: 0.69962890625
+final valid ratio: 0.6861588541666667
+projector u range: 0.0 639.9279
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_300/phase
+point_count: 40298
+rmse_m: 0.06638644
+median_error_m: 0.00015402
+p95_error_m: 0.00165456
+max_error_m: 0.85174325
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_300/reconstruction
+frequency 1: valid_ratio=0.769899, ratio_median=1.312291
+frequency 4: valid_ratio=0.768721, ratio_median=1.283622
+frequency 12: valid_ratio=0.768955, ratio_median=1.276307
+base valid ratio: 0.6983821614583333
+final valid ratio: 0.6898665364583333
+projector u range: 0.0 639.8114
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_330/phase
+point_count: 49660
+rmse_m: 0.03388603
+median_error_m: 0.00016209
+p95_error_m: 0.00081967
+max_error_m: 0.90299166
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/upper_right/view_330/reconstruction
+
+[1/12] view=0
+
+[2/12] view=30
+
+[3/12] view=60
+
+[4/12] view=90
+
+[5/12] view=120
+
+[6/12] view=150
+
+[7/12] view=180
+
+[8/12] view=210
+
+[9/12] view=240
+
+[10/12] view=270
+
+[11/12] view=300
+
+[12/12] view=330
+
+All 16-bit views reconstructed.
+upper_right reconstruction complete: 12 / 12
+lower_left existing reconstructions: 0 / 12
+------------------------------------------------------------
+Reconstructing camera: lower_left
+------------------------------------------------------------
+frequency 1: valid_ratio=0.386133, ratio_median=1.127661
+frequency 4: valid_ratio=0.373981, ratio_median=1.111668
+frequency 12: valid_ratio=0.371784, ratio_median=1.070684
+base valid ratio: 0.28513997395833335
+final valid ratio: 0.22236328125
+projector u range: 0.42642224 638.50775
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_000/phase
+point_count: 42411
+rmse_m: 0.01107698
+median_error_m: 0.00009591
+p95_error_m: 0.00026517
+max_error_m: 0.72297563
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_000/reconstruction
+frequency 1: valid_ratio=0.398428, ratio_median=1.232889
+frequency 4: valid_ratio=0.398158, ratio_median=1.142329
+frequency 12: valid_ratio=0.397939, ratio_median=1.038562
+base valid ratio: 0.3231119791666667
+final valid ratio: 0.2538704427083333
+projector u range: 0.1958482 638.6903
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_030/phase
+point_count: 51594
+rmse_m: 0.01254789
+median_error_m: 0.00010120
+p95_error_m: 0.00030564
+max_error_m: 0.74817266
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_030/reconstruction
+frequency 1: valid_ratio=0.338717, ratio_median=1.192819
+frequency 4: valid_ratio=0.338245, ratio_median=1.083790
+frequency 12: valid_ratio=0.338044, ratio_median=1.022819
+base valid ratio: 0.264970703125
+final valid ratio: 0.20652994791666668
+projector u range: 1.3204303 638.84625
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_060/phase
+point_count: 35591
+rmse_m: 0.02332497
+median_error_m: 0.00009367
+p95_error_m: 0.00040975
+max_error_m: 0.84101028
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_060/reconstruction
+frequency 1: valid_ratio=0.348021, ratio_median=1.111618
+frequency 4: valid_ratio=0.329974, ratio_median=1.084242
+frequency 12: valid_ratio=0.324837, ratio_median=1.028500
+base valid ratio: 0.224140625
+final valid ratio: 0.185712890625
+projector u range: 0.0 639.3349
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_090/phase
+point_count: 28579
+rmse_m: 0.01421036
+median_error_m: 0.00009785
+p95_error_m: 0.00102811
+max_error_m: 0.73709389
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_090/reconstruction
+frequency 1: valid_ratio=0.410495, ratio_median=1.250090
+frequency 4: valid_ratio=0.410150, ratio_median=1.166077
+frequency 12: valid_ratio=0.409902, ratio_median=1.037647
+base valid ratio: 0.3311263020833333
+final valid ratio: 0.260595703125
+projector u range: 0.0 638.4948
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_120/phase
+point_count: 54431
+rmse_m: 0.01050497
+median_error_m: 0.00009985
+p95_error_m: 0.00026059
+max_error_m: 0.76117513
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_120/reconstruction
+frequency 1: valid_ratio=0.392314, ratio_median=1.194856
+frequency 4: valid_ratio=0.391982, ratio_median=1.130197
+frequency 12: valid_ratio=0.391943, ratio_median=1.060536
+base valid ratio: 0.31325846354166664
+final valid ratio: 0.24178385416666667
+projector u range: 0.42056113 638.4948
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_150/phase
+point_count: 48988
+rmse_m: 0.01733169
+median_error_m: 0.00009161
+p95_error_m: 0.00022608
+max_error_m: 0.83187611
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_150/reconstruction
+frequency 1: valid_ratio=0.386133, ratio_median=1.127661
+frequency 4: valid_ratio=0.373981, ratio_median=1.111668
+frequency 12: valid_ratio=0.371784, ratio_median=1.070686
+base valid ratio: 0.28513997395833335
+final valid ratio: 0.22236328125
+projector u range: 0.42642224 638.50775
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_180/phase
+point_count: 42411
+rmse_m: 0.01107696
+median_error_m: 0.00009591
+p95_error_m: 0.00026512
+max_error_m: 0.72297563
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_180/reconstruction
+frequency 1: valid_ratio=0.398428, ratio_median=1.232889
+frequency 4: valid_ratio=0.398158, ratio_median=1.142329
+frequency 12: valid_ratio=0.397939, ratio_median=1.038562
+base valid ratio: 0.3231119791666667
+final valid ratio: 0.2538704427083333
+projector u range: 0.1958482 638.6903
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_210/phase
+point_count: 51594
+rmse_m: 0.01254789
+median_error_m: 0.00010120
+p95_error_m: 0.00030564
+max_error_m: 0.74817266
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_210/reconstruction
+frequency 1: valid_ratio=0.338717, ratio_median=1.192819
+frequency 4: valid_ratio=0.338245, ratio_median=1.083790
+frequency 12: valid_ratio=0.338044, ratio_median=1.022819
+base valid ratio: 0.264970703125
+final valid ratio: 0.20652994791666668
+projector u range: 1.3204303 638.84625
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_240/phase
+point_count: 35591
+rmse_m: 0.02332498
+median_error_m: 0.00009367
+p95_error_m: 0.00040975
+max_error_m: 0.84101028
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_240/reconstruction
+frequency 1: valid_ratio=0.348021, ratio_median=1.111618
+frequency 4: valid_ratio=0.329971, ratio_median=1.084250
+frequency 12: valid_ratio=0.324840, ratio_median=1.028499
+base valid ratio: 0.224140625
+final valid ratio: 0.185712890625
+projector u range: 0.0 639.3349
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_270/phase
+point_count: 28579
+rmse_m: 0.01421036
+median_error_m: 0.00009787
+p95_error_m: 0.00102811
+max_error_m: 0.73709389
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_270/reconstruction
+frequency 1: valid_ratio=0.410498, ratio_median=1.250092
+frequency 4: valid_ratio=0.410153, ratio_median=1.166095
+frequency 12: valid_ratio=0.409906, ratio_median=1.037648
+base valid ratio: 0.33112955729166665
+final valid ratio: 0.26059895833333335
+projector u range: 0.0 638.4948
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_300/phase
+point_count: 54432
+rmse_m: 0.01050487
+median_error_m: 0.00009985
+p95_error_m: 0.00026061
+max_error_m: 0.76117513
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_300/reconstruction
+frequency 1: valid_ratio=0.392314, ratio_median=1.194856
+frequency 4: valid_ratio=0.391982, ratio_median=1.130197
+frequency 12: valid_ratio=0.391943, ratio_median=1.060536
+base valid ratio: 0.31325846354166664
+final valid ratio: 0.24178385416666667
+projector u range: 0.42056113 638.4948
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_330/phase
+point_count: 48988
+rmse_m: 0.01733170
+median_error_m: 0.00009162
+p95_error_m: 0.00022604
+max_error_m: 0.83187611
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_left/view_330/reconstruction
+
+[1/12] view=0
+
+[2/12] view=30
+
+[3/12] view=60
+
+[4/12] view=90
+
+[5/12] view=120
+
+[6/12] view=150
+
+[7/12] view=180
+
+[8/12] view=210
+
+[9/12] view=240
+
+[10/12] view=270
+
+[11/12] view=300
+
+[12/12] view=330
+
+All 16-bit views reconstructed.
+lower_left reconstruction complete: 12 / 12
+lower_right existing reconstructions: 0 / 12
+------------------------------------------------------------
+Reconstructing camera: lower_right
+------------------------------------------------------------
+frequency 1: valid_ratio=0.383776, ratio_median=1.138700
+frequency 4: valid_ratio=0.371800, ratio_median=1.112798
+frequency 12: valid_ratio=0.369326, ratio_median=1.071647
+base valid ratio: 0.2823763020833333
+final valid ratio: 0.22224934895833334
+projector u range: 0.12817048 638.24603
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_000/phase
+point_count: 42416
+rmse_m: 0.01152597
+median_error_m: 0.00009540
+p95_error_m: 0.00026628
+max_error_m: 0.72286666
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_000/reconstruction
+frequency 1: valid_ratio=0.392969, ratio_median=1.199019
+frequency 4: valid_ratio=0.392679, ratio_median=1.129669
+frequency 12: valid_ratio=0.392500, ratio_median=1.060791
+base valid ratio: 0.3179296875
+final valid ratio: 0.24154947916666666
+projector u range: 0.20574722 638.881
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_030/phase
+point_count: 48997
+rmse_m: 0.01801134
+median_error_m: 0.00009136
+p95_error_m: 0.00022636
+max_error_m: 0.83189660
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_030/reconstruction
+frequency 1: valid_ratio=0.411930, ratio_median=1.252191
+frequency 4: valid_ratio=0.411644, ratio_median=1.164021
+frequency 12: valid_ratio=0.411302, ratio_median=1.036375
+base valid ratio: 0.3401822916666667
+final valid ratio: 0.26021158854166665
+projector u range: 0.054936077 638.98206
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_060/phase
+point_count: 54438
+rmse_m: 0.01073712
+median_error_m: 0.00009995
+p95_error_m: 0.00025921
+max_error_m: 0.76121566
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_060/reconstruction
+frequency 1: valid_ratio=0.344590, ratio_median=1.119453
+frequency 4: valid_ratio=0.326644, ratio_median=1.085475
+frequency 12: valid_ratio=0.321025, ratio_median=1.029405
+base valid ratio: 0.219716796875
+final valid ratio: 0.18583333333333332
+projector u range: 0.0 639.454
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_090/phase
+point_count: 28651
+rmse_m: 0.01257430
+median_error_m: 0.00009777
+p95_error_m: 0.00102274
+max_error_m: 0.73651702
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_090/reconstruction
+frequency 1: valid_ratio=0.337321, ratio_median=1.196727
+frequency 4: valid_ratio=0.336891, ratio_median=1.087673
+frequency 12: valid_ratio=0.336650, ratio_median=1.021741
+base valid ratio: 0.26502604166666666
+final valid ratio: 0.205771484375
+projector u range: 0.8896675 638.50745
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_120/phase
+point_count: 35613
+rmse_m: 0.02304450
+median_error_m: 0.00009442
+p95_error_m: 0.00050487
+max_error_m: 0.84095664
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_120/reconstruction
+frequency 1: valid_ratio=0.398571, ratio_median=1.237067
+frequency 4: valid_ratio=0.398337, ratio_median=1.142519
+frequency 12: valid_ratio=0.398118, ratio_median=1.038296
+base valid ratio: 0.3265885416666667
+final valid ratio: 0.2528938802083333
+projector u range: 1.1660599 639.44727
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_150/phase
+point_count: 51595
+rmse_m: 0.01246685
+median_error_m: 0.00010155
+p95_error_m: 0.00030339
+max_error_m: 0.74642156
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_150/reconstruction
+frequency 1: valid_ratio=0.383776, ratio_median=1.138700
+frequency 4: valid_ratio=0.371800, ratio_median=1.112798
+frequency 12: valid_ratio=0.369326, ratio_median=1.071647
+base valid ratio: 0.2823763020833333
+final valid ratio: 0.22224934895833334
+projector u range: 0.12817048 638.24603
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_180/phase
+point_count: 42416
+rmse_m: 0.01152598
+median_error_m: 0.00009541
+p95_error_m: 0.00026628
+max_error_m: 0.72286666
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_180/reconstruction
+frequency 1: valid_ratio=0.392969, ratio_median=1.199019
+frequency 4: valid_ratio=0.392679, ratio_median=1.129669
+frequency 12: valid_ratio=0.392500, ratio_median=1.060791
+base valid ratio: 0.3179296875
+final valid ratio: 0.24154947916666666
+projector u range: 0.20574722 638.881
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_210/phase
+point_count: 48997
+rmse_m: 0.01801134
+median_error_m: 0.00009136
+p95_error_m: 0.00022635
+max_error_m: 0.83189660
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_210/reconstruction
+frequency 1: valid_ratio=0.411930, ratio_median=1.252191
+frequency 4: valid_ratio=0.411644, ratio_median=1.164021
+frequency 12: valid_ratio=0.411302, ratio_median=1.036375
+base valid ratio: 0.3401790364583333
+final valid ratio: 0.26021158854166665
+projector u range: 0.054936077 638.98206
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_240/phase
+point_count: 54438
+rmse_m: 0.01073712
+median_error_m: 0.00009996
+p95_error_m: 0.00025920
+max_error_m: 0.76121566
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_240/reconstruction
+frequency 1: valid_ratio=0.344590, ratio_median=1.119453
+frequency 4: valid_ratio=0.326637, ratio_median=1.085481
+frequency 12: valid_ratio=0.321035, ratio_median=1.029391
+base valid ratio: 0.219716796875
+final valid ratio: 0.18583333333333332
+projector u range: 0.0 639.454
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_270/phase
+point_count: 28651
+rmse_m: 0.01257430
+median_error_m: 0.00009775
+p95_error_m: 0.00102274
+max_error_m: 0.73651702
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_270/reconstruction
+frequency 1: valid_ratio=0.337321, ratio_median=1.196727
+frequency 4: valid_ratio=0.336891, ratio_median=1.087673
+frequency 12: valid_ratio=0.336650, ratio_median=1.021741
+base valid ratio: 0.2650227864583333
+final valid ratio: 0.20577799479166667
+projector u range: 0.8896675 638.50745
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_300/phase
+point_count: 35615
+rmse_m: 0.02304561
+median_error_m: 0.00009443
+p95_error_m: 0.00052821
+max_error_m: 0.84095664
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_300/reconstruction
+frequency 1: valid_ratio=0.398571, ratio_median=1.237067
+frequency 4: valid_ratio=0.398337, ratio_median=1.142519
+frequency 12: valid_ratio=0.398118, ratio_median=1.038305
+base valid ratio: 0.3265885416666667
+final valid ratio: 0.2528938802083333
+projector u range: 1.1660599 639.44727
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_330/phase
+point_count: 51595
+rmse_m: 0.01246685
+median_error_m: 0.00010154
+p95_error_m: 0.00030336
+max_error_m: 0.74642156
+
+PLY written: True
+saved to: ${PROJECT_ROOT}/outputs/multiview_reconstruction_exr_complex_fourcam/lower_right/view_330/reconstruction
+
+[1/12] view=0
+
+[2/12] view=30
+
+[3/12] view=60
+
+[4/12] view=90
+
+[5/12] view=120
+
+[6/12] view=150
+
+[7/12] view=180
+
+[8/12] view=210
+
+[9/12] view=240
+
+[10/12] view=270
+
+[11/12] view=300
+
+[12/12] view=330
+
+All 16-bit views reconstructed.
+lower_right reconstruction complete: 12 / 12
+Total reconstructed views: 48 / 48
+============================================================
+Stage 2: four-camera TSDF fusion
+============================================================
+upper_left view 000: depth 43360 -> 43850, range 0.4682-0.6126 m
+upper_left view 030: depth 49400 -> 49605, range 0.4675-0.6159 m
+upper_left view 060: depth 39469 -> 40552, range 0.4711-0.6090 m
+upper_left view 090: depth 31297 -> 32312, range 0.4656-0.6152 m
+upper_left view 120: depth 51085 -> 51853, range 0.4716-0.6095 m
+upper_left view 150: depth 47533 -> 47709, range 0.4882-0.5928 m
+upper_left view 180: depth 43361 -> 43851, range 0.4682-0.6126 m
+upper_left view 210: depth 49400 -> 49605, range 0.4675-0.6159 m
+upper_left view 240: depth 39469 -> 40552, range 0.4711-0.6090 m
+upper_left view 270: depth 31297 -> 32312, range 0.4656-0.6152 m
+upper_left view 300: depth 51085 -> 51853, range 0.4716-0.6095 m
+upper_left view 330: depth 47533 -> 47709, range 0.4882-0.5928 m
+upper_right view 000: depth 43396 -> 43895, range 0.4683-0.6125 m
+upper_right view 030: depth 47535 -> 47705, range 0.4882-0.5928 m
+upper_right view 060: depth 51028 -> 51807, range 0.4717-0.6094 m
+upper_right view 090: depth 31307 -> 32296, range 0.4656-0.6153 m
+upper_right view 120: depth 39483 -> 40573, range 0.4754-0.6092 m
+upper_right view 150: depth 49387 -> 49604, range 0.4675-0.6161 m
+upper_right view 180: depth 43396 -> 43895, range 0.4683-0.6125 m
+upper_right view 210: depth 47535 -> 47705, range 0.4882-0.5928 m
+upper_right view 240: depth 51028 -> 51807, range 0.4717-0.6094 m
+upper_right view 270: depth 31307 -> 32296, range 0.4656-0.6153 m
+upper_right view 300: depth 39483 -> 40573, range 0.4754-0.6092 m
+upper_right view 330: depth 49387 -> 49604, range 0.4675-0.6161 m
+lower_left view 000: depth 42306 -> 42513, range 0.4196-0.5277 m
+lower_left view 030: depth 51570 -> 51832, range 0.4206-0.5405 m
+lower_left view 060: depth 35517 -> 36785, range 0.4218-0.5618 m
+lower_left view 090: depth 28390 -> 29456, range 0.4158-0.5443 m
+lower_left view 120: depth 54423 -> 54630, range 0.4253-0.5272 m
+lower_left view 150: depth 48907 -> 48904, range 0.4441-0.5164 m
+lower_left view 180: depth 42306 -> 42513, range 0.4196-0.5277 m
+lower_left view 210: depth 51570 -> 51832, range 0.4206-0.5405 m
+lower_left view 240: depth 35517 -> 36785, range 0.4218-0.5618 m
+lower_left view 270: depth 28390 -> 29456, range 0.4158-0.5443 m
+lower_left view 300: depth 54424 -> 54631, range 0.4253-0.5272 m
+lower_left view 330: depth 48907 -> 48904, range 0.4441-0.5164 m
+lower_right view 000: depth 42289 -> 42408, range 0.4190-0.5676 m
+lower_right view 030: depth 48909 -> 48915, range 0.4441-0.4907 m
+lower_right view 060: depth 54423 -> 54630, range 0.4252-0.5272 m
+lower_right view 090: depth 28466 -> 29588, range 0.4178-0.5178 m
+lower_right view 120: depth 35523 -> 36823, range 0.4209-0.5628 m
+lower_right view 150: depth 51555 -> 51839, range 0.4206-0.5405 m
+lower_right view 180: depth 42289 -> 42408, range 0.4190-0.5676 m
+lower_right view 210: depth 48909 -> 48915, range 0.4441-0.4907 m
+lower_right view 240: depth 54423 -> 54630, range 0.4252-0.5272 m
+lower_right view 270: depth 28466 -> 29588, range 0.4178-0.5178 m
+lower_right view 300: depth 35525 -> 36823, range 0.4209-0.5628 m
+lower_right view 330: depth 51555 -> 51839, range 0.4206-0.5405 m
+[1;33m[Open3D WARNING] Write Ply clamped color value to valid range[0;m
+rig_count: 4
+upper_left_frames: 12
+upper_right_frames: 12
+lower_left_frames: 12
+lower_right_frames: 12
+total_frames: 48
+vertex_count: 97627
+face_count: 187771
+body_count: 270
+watertight: False
+extent_m: [0.17466655444275891, 0.12970497069645082, 0.11011100047254675]
+volume_m3: nan
+volume_cm3: nan
+
+saved to: ${PROJECT_ROOT}/outputs/tsdf_complex_fourcam_12views
+TSDF mesh generated:
+${PROJECT_ROOT}/outputs/tsdf_complex_fourcam_12views/tsdf_mesh_raw.ply
+============================================================
+Stage 3: four-camera Poisson topology reconstruction
+============================================================
+upper_left view 000: 43371 points
+upper_left view 030: 49397 points
+upper_left view 060: 39452 points
+upper_left view 090: 31303 points
+upper_left view 120: 51083 points
+upper_left view 150: 47525 points
+upper_left view 180: 43372 points
+upper_left view 210: 49397 points
+upper_left view 240: 39452 points
+upper_left view 270: 31303 points
+upper_left view 300: 51083 points
+upper_left view 330: 47525 points
+upper_right view 000: 43400 points
+upper_right view 030: 47520 points
+upper_right view 060: 51024 points
+upper_right view 090: 31309 points
+upper_right view 120: 39457 points
+upper_right view 150: 49382 points
+upper_right view 180: 43400 points
+upper_right view 210: 47520 points
+upper_right view 240: 51024 points
+upper_right view 270: 31309 points
+upper_right view 300: 39457 points
+upper_right view 330: 49382 points
+lower_left view 000: 42307 points
+lower_left view 030: 51570 points
+lower_left view 060: 35518 points
+lower_left view 090: 28393 points
+lower_left view 120: 54423 points
+lower_left view 150: 48910 points
+lower_left view 180: 42307 points
+lower_left view 210: 51570 points
+lower_left view 240: 35518 points
+lower_left view 270: 28393 points
+lower_left view 300: 54424 points
+lower_left view 330: 48910 points
+lower_right view 000: 42286 points
+lower_right view 030: 48911 points
+lower_right view 060: 54423 points
+lower_right view 090: 28470 points
+lower_right view 120: 35526 points
+lower_right view 150: 51556 points
+lower_right view 180: 42286 points
+lower_right view 210: 48911 points
+lower_right view 240: 54423 points
+lower_right view 270: 28470 points
+lower_right view 300: 35528 points
+lower_right view 330: 51556 points
+points before downsampling: 2093036
+points after downsampling: 142368
+rig_count: 4
+input_point_count: 2093036
+downsampled_point_count: 142368
+vertex_count: 214361
+face_count: 428420
+watertight: False
+extent_m: [0.18507030606269836, 0.18507030606269836, 0.1394335739314556]
+volume_cm3: 1857.212704054207
+
+Poisson mesh generated:
+${PROJECT_ROOT}/outputs/poisson_complex_fourcam_direct/poisson_mesh_raw.ply
+============================================================
+Four-camera reconstruction pipeline complete
+TSDF mesh:
+${PROJECT_ROOT}/outputs/tsdf_complex_fourcam_12views/tsdf_mesh_raw.ply
+Poisson mesh:
+${PROJECT_ROOT}/outputs/poisson_complex_fourcam_direct/poisson_mesh_raw.ply
+============================================================

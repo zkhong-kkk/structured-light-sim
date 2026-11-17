@@ -1,0 +1,8 @@
+rig_count: 4
+input_point_count: 1829106
+downsampled_point_count: 112513
+vertex_count: 268114
+face_count: 530954
+watertight: False
+extent_m: [0.14062240719795227, 0.14062240719795227, 0.1263633482158184]
+volume_cm3: 1059.5435334143492

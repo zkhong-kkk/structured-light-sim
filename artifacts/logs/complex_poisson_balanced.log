@@ -1,0 +1,59 @@
+upper_left view 000: 43351 points
+upper_left view 030: 49396 points
+upper_left view 060: 39451 points
+upper_left view 090: 31262 points
+upper_left view 120: 51079 points
+upper_left view 150: 47523 points
+upper_left view 180: 43352 points
+upper_left view 210: 49396 points
+upper_left view 240: 39451 points
+upper_left view 270: 31262 points
+upper_left view 300: 51079 points
+upper_left view 330: 47523 points
+upper_right view 000: 43388 points
+upper_right view 030: 47520 points
+upper_right view 060: 51023 points
+upper_right view 090: 31281 points
+upper_right view 120: 39457 points
+upper_right view 150: 49381 points
+upper_right view 180: 43388 points
+upper_right view 210: 47520 points
+upper_right view 240: 51023 points
+upper_right view 270: 31281 points
+upper_right view 300: 39457 points
+upper_right view 330: 49381 points
+lower_left view 000: 42299 points
+lower_left view 030: 51568 points
+lower_left view 060: 35510 points
+lower_left view 090: 28386 points
+lower_left view 120: 54423 points
+lower_left view 150: 48906 points
+lower_left view 180: 42299 points
+lower_left view 210: 51568 points
+lower_left view 240: 35510 points
+lower_left view 270: 28386 points
+lower_left view 300: 54424 points
+lower_left view 330: 48906 points
+lower_right view 000: 42277 points
+lower_right view 030: 48908 points
+lower_right view 060: 54423 points
+lower_right view 090: 28464 points
+lower_right view 120: 35517 points
+lower_right view 150: 51555 points
+lower_right view 180: 42277 points
+lower_right view 210: 48908 points
+lower_right view 240: 54423 points
+lower_right view 270: 28464 points
+lower_right view 300: 35519 points
+lower_right view 330: 51555 points
+points before downsampling: 2092700
+points after downsampling: 191087
+rig_count: 4
+input_point_count: 2092700
+downsampled_point_count: 191087
+vertex_count: 261544
+face_count: 522230
+watertight: False
+extent_m: [0.17679567635059357, 0.17679567635059357, 0.13649626448750496]
+volume_cm3: 1523.5824197909785
+
