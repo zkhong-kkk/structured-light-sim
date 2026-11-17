@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#333"/></marker>
+    <marker id="dim-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M10,0 L0,5 L10,10" fill="none" stroke="#555" stroke-width="1.5"/></marker>
+    <style>
+      text{font-family:Arial,"Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#111}.title{font-size:28px;font-weight:700}.sub{font-size:14px;fill:#555}.panel{font-size:20px;font-weight:700}.label{font-size:15px;font-weight:700}.note{font-size:13px;fill:#444}.coord{font-size:13px;font-family:Consolas,"Microsoft YaHei",monospace}.frame{fill:#fff;stroke:#b7b7b7;stroke-width:1.5}.camera{fill:#f5f5f5;stroke:#111;stroke-width:2}.lens{fill:#fff;stroke:#111;stroke-width:2}.ray{fill:none;stroke:#555;stroke-width:1.5;stroke-dasharray:7 5}.centerline{fill:none;stroke:#aaa;stroke-width:1;stroke-dasharray:8 5}.dimension{fill:none;stroke:#555;stroke-width:1.2;marker-start:url(#dim-arrow);marker-end:url(#dim-arrow)}.extension{fill:none;stroke:#888;stroke-width:1}.axis{fill:none;stroke:#333;stroke-width:1.5;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1400" height="820" fill="#fff"/>
+  <text x="700" y="42" text-anchor="middle" class="title">四相机空间位置示意图</text>
+  <text x="700" y="68" text-anchor="middle" class="sub">单位：m；物体/转台中心为坐标原点 O；投影仪与算法流程省略</text>
+  <rect x="35" y="92" width="645" height="570" rx="5" class="frame"/>
+  <rect x="720" y="92" width="645" height="570" rx="5" class="frame"/>
+
+  <!-- 俯视图 -->
+  <text x="60" y="126" class="panel">A. 俯视图（X–Y）</text>
+  <text x="60" y="150" class="note">上下相机在 X–Y 平面位置重合，仅 Z 高度不同</text>
+  <line x1="360" y1="175" x2="360" y2="620" class="centerline"/>
+  <line x1="85" y1="340" x2="640" y2="340" class="centerline"/>
+  <circle cx="360" cy="340" r="108" fill="none" stroke="#777" stroke-width="1.4"/>
+  <circle cx="360" cy="340" r="4" fill="#111"/><text x="371" y="334" class="label">O (0, 0)</text>
+  <rect x="326" y="312" width="68" height="56" fill="#e7e7e7" stroke="#111" stroke-width="2"/>
+  <rect x="344" y="326" width="32" height="27" fill="#fff" stroke="#444" stroke-width="1.4"/>
+  <text x="360" y="388" text-anchor="middle" class="note">待测物体</text><text x="360" y="450" text-anchor="middle" class="note">编码转台</text>
+  <g transform="translate(170,557)"><rect width="80" height="48" rx="3" class="camera"/><circle cx="63" cy="24" r="11" class="lens"/><circle cx="63" cy="24" r="4" fill="#222"/><text x="40" y="-12" text-anchor="middle" class="label">UL / LL</text><text x="40" y="68" text-anchor="middle" class="coord">x = −0.28</text></g>
+  <g transform="translate(470,557)"><rect width="80" height="48" rx="3" class="camera"/><circle cx="17" cy="24" r="11" class="lens"/><circle cx="17" cy="24" r="4" fill="#222"/><text x="40" y="-12" text-anchor="middle" class="label">UR / LR</text><text x="40" y="68" text-anchor="middle" class="coord">x = +0.28</text></g>
+  <path d="M233 581 L340 365" class="ray"/><path d="M487 581 L380 365" class="ray"/>
+  <line x1="233" y1="535" x2="233" y2="515" class="extension"/><line x1="487" y1="535" x2="487" y2="515" class="extension"/><line x1="233" y1="520" x2="487" y2="520" class="dimension"/><rect x="325" y="507" width="70" height="20" fill="#fff"/><text x="360" y="522" text-anchor="middle" class="note">560 mm</text>
+  <line x1="565" y1="340" x2="590" y2="340" class="extension"/><line x1="565" y1="581" x2="590" y2="581" class="extension"/><line x1="582" y1="340" x2="582" y2="581" class="dimension"/><rect x="550" y="449" width="65" height="22" fill="#fff"/><text x="582" y="464" text-anchor="middle" class="note">420 mm</text><text x="582" y="607" text-anchor="middle" class="coord">y = −0.42</text>
+  <line x1="92" y1="210" x2="148" y2="210" class="axis"/><line x1="92" y1="210" x2="92" y2="266" class="axis"/><text x="155" y="215" class="note">+X</text><text x="77" y="280" class="note">+Y</text>
+
+  <!-- 正视高度图 -->
+  <text x="745" y="126" class="panel">B. 正视高度图（X–Z）</text>
+  <text x="745" y="150" class="note">四台相机的水平与高度位置；共同前向坐标 y = −0.42 m</text>
+  <line x1="1040" y1="175" x2="1040" y2="620" class="centerline"/><line x1="765" y1="590" x2="1325" y2="590" stroke="#111" stroke-width="2"/>
+  <ellipse cx="1040" cy="570" rx="94" ry="14" fill="#eee" stroke="#111" stroke-width="1.5"/><rect x="946" y="570" width="188" height="20" fill="#ddd" stroke="#111" stroke-width="1.5"/>
+  <rect x="1006" y="490" width="68" height="80" fill="#e7e7e7" stroke="#111" stroke-width="2"/><rect x="1024" y="516" width="32" height="28" fill="#fff" stroke="#444" stroke-width="1.4"/>
+  <circle cx="1040" cy="590" r="4" fill="#111"/><text x="1052" y="610" class="label">O</text><text x="1040" y="471" text-anchor="middle" class="note">物体约 120 × 100 mm</text>
+  <g transform="translate(830,308)"><rect width="80" height="48" rx="3" class="camera"/><circle cx="63" cy="24" r="11" class="lens"/><circle cx="63" cy="24" r="4" fill="#222"/><text x="40" y="-12" text-anchor="middle" class="label">UL</text><text x="40" y="68" text-anchor="middle" class="coord">(−0.28, −0.42, 0.30)</text></g>
+  <g transform="translate(1170,308)"><rect width="80" height="48" rx="3" class="camera"/><circle cx="17" cy="24" r="11" class="lens"/><circle cx="17" cy="24" r="4" fill="#222"/><text x="40" y="-12" text-anchor="middle" class="label">UR</text><text x="40" y="68" text-anchor="middle" class="coord">(+0.28, −0.42, 0.30)</text></g>
+  <g transform="translate(830,550)"><rect width="80" height="48" rx="3" class="camera"/><circle cx="63" cy="24" r="11" class="lens"/><circle cx="63" cy="24" r="4" fill="#222"/><text x="40" y="-12" text-anchor="middle" class="label">LL</text><text x="40" y="68" text-anchor="middle" class="coord">(−0.28, −0.42, 0.025)</text></g>
+  <g transform="translate(1170,550)"><rect width="80" height="48" rx="3" class="camera"/><circle cx="17" cy="24" r="11" class="lens"/><circle cx="17" cy="24" r="4" fill="#222"/><text x="40" y="-12" text-anchor="middle" class="label">LR</text><text x="40" y="68" text-anchor="middle" class="coord">(+0.28, −0.42, 0.025)</text></g>
+  <path d="M893 332 L1011 510" class="ray"/><path d="M1187 332 L1069 510" class="ray"/><path d="M893 574 L1011 548" class="ray"/><path d="M1187 574 L1069 548" class="ray"/>
+  <line x1="893" y1="287" x2="893" y2="270" class="extension"/><line x1="1187" y1="287" x2="1187" y2="270" class="extension"/><line x1="893" y1="275" x2="1187" y2="275" class="dimension"/><rect x="1005" y="262" width="70" height="20" fill="#fff"/><text x="1040" y="277" text-anchor="middle" class="note">560 mm</text>
+  <line x1="805" y1="332" x2="818" y2="332" class="extension"/><line x1="805" y1="574" x2="818" y2="574" class="extension"/><line x1="810" y1="332" x2="810" y2="574" class="dimension"/><rect x="774" y="442" width="72" height="22" fill="#fff"/><text x="810" y="457" text-anchor="middle" class="note">275 mm</text>
+  <line x1="1276" y1="210" x2="1330" y2="210" class="axis"/><line x1="1276" y1="210" x2="1276" y2="158" class="axis"/><text x="1336" y="215" class="note">+X</text><text x="1261" y="153" class="note">+Z</text>
+
+  <!-- 坐标汇总 -->
+  <rect x="35" y="686" width="1330" height="102" rx="5" fill="#fafafa" stroke="#b7b7b7" stroke-width="1.5"/>
+  <text x="60" y="716" class="label">相机中心坐标（物体坐标系）</text><line x1="60" y1="728" x2="1340" y2="728" stroke="#ccc"/>
+  <text x="75" y="758" class="coord">UL 上左：(−0.28, −0.42, 0.30)</text><text x="395" y="758" class="coord">UR 上右：(+0.28, −0.42, 0.30)</text><text x="725" y="758" class="coord">LL 下左：(−0.28, −0.42, 0.025)</text><text x="1055" y="758" class="coord">LR 下右：(+0.28, −0.42, 0.025)</text>
+  <text x="700" y="778" text-anchor="middle" class="note">左右基线 0.56 m　｜　高低差 0.275 m　｜　相机到物体前向距离 0.42 m</text>
+</svg>

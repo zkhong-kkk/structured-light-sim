@@ -11,6 +11,8 @@
 
 每个物体共采集：
 
+![四相机互补结构光布局](assets/four_camera_layout.svg)
+
 \[
 4\ \text{相机}\times12\ \text{转台角度}\times3\ \text{频率}\times4\ \text{相位}=576\ \text{帧}。
 \]
